@@ -1,0 +1,18 @@
+# c_kreldet
+
+# County Title
+title = c_kreldet
+
+# Settlements
+max_settlements = 4
+
+b_kreldet = castle
+#b_kreldet_2 = city
+#b_kreldet_3 = temple
+#b_kreldet_4 = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+#History

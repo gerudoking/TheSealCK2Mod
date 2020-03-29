@@ -1,0 +1,47 @@
+1={
+	name=Ibnar
+	dynasty=752
+
+	culture=irish
+	religion=catholic
+
+	father = 4
+
+	1020.6.23={ birth=yes }
+	1077.7.4={ death=yes }
+}
+2={
+	name=Bodnar
+	dynasty=752
+
+	culture=irish
+	religion=catholic
+
+	father = 4
+	
+	1025.2.9={ birth=yes }
+	1080.4.2={ death=yes }
+}
+3={
+	name=Mariah
+	female=yes
+	dynasty=752
+	
+	culture=irish
+	religion=catholic
+
+	father = 4
+
+	1028.8.22={ birth=yes }
+	1102.1.29={ death=yes }
+}
+4={
+	name=Ibner
+	dynasty=752
+
+	culture=irish
+	religion=catholic
+
+	1000.6.23={ birth=yes }
+	1050.7.4={ death=yes }
+}

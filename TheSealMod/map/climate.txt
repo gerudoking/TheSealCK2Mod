@@ -1,0 +1,6 @@
+#	NO WINTER = {
+#		# CIRCANNIA / Verdejaz
+#		1 3 4 
+#		# NO KINGDOM
+#		2 
+#	}

@@ -1,0 +1,8 @@
+bm_charlemagne = {
+	name = "BM_CHARLEMAGNE_ERA"
+	desc = "BM_CHARLEMAGNE_ERA_INFO"
+	date = 1066.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+}

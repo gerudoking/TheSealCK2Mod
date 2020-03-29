@@ -1,0 +1,70 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_circannia = {
+	color={ 106 222 174 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_frakkert
+	culture = irish
+	
+	k_verdejaz = {
+		color={ 96 232 169 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_frakkert
+		culture = irish
+		
+		d_gran_frakkert = {
+			color={ 76 252 159 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 3 province_id = 4 } }
+				}
+			}
+			capital = 1 # c_frakkert
+			
+			c_frakkert = { # 1
+				color={ 66 6 154 }
+				color2={ 255 255 255 }
+				
+				b_frakkert = {
+				}
+				b_frakkert_2 = {
+				}
+				b_frakkert_3 = {
+				}
+				b_frakkert_4 = {
+				}
+			}
+			c_kreldet = { # 4
+				color={ 166 50 127 }
+				color2={ 255 255 255 }
+				
+				b_kreldet = {
+				}
+				b_kreldet_2 = {
+				}
+				b_kreldet_3 = {
+				}
+				b_kreldet_4 = {
+				}
+			}
+			c_lacrima_mouth = { # 3
+				color={ 118 50 144 }
+				color2={ 255 255 255 }
+				
+				b_lacrima_mouth = {
+				}
+				b_lacrima_mouth_2 = {
+				}
+				b_lacrima_mouth_3 = {
+				}
+			}
+		}
+	}
+}
