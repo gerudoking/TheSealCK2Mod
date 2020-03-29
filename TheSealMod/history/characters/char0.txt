@@ -45,3 +45,13 @@
 	1000.6.23={ birth=yes }
 	1050.7.4={ death=yes }
 }
+5={
+	name=Andreos
+	dynasty=1
+
+	culture=irish
+	religion=giantcult
+
+	1030.12.22={ birth=yes }
+	1102.1.29={ death=yes }
+}

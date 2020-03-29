@@ -16,6 +16,17 @@ e_circannia = {
 		capital = 1 # c_frakkert
 		culture = irish
 		
+		c_high_kreldet = { # 5
+			color={ 50 10 120 }
+			color2={ 255 255 255 }
+			
+			b_high_kreldet = {
+			}
+			b_high_kreldet_2 = {
+			}
+			b_high_kreldet_3 = {
+			}
+		}
 		d_gran_frakkert = {
 			color={ 76 252 159 }
 			color2={ 255 255 255 }
@@ -23,7 +34,7 @@ e_circannia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 1 province_id = 3 province_id = 4 } }
+					any_demesne_province = { OR = { province_id = 1 province_id = 3 province_id = 4 province_id = 5 } }
 				}
 			}
 			capital = 1 # c_frakkert
@@ -39,6 +50,17 @@ e_circannia = {
 				b_frakkert_3 = {
 				}
 				b_frakkert_4 = {
+				}
+			}
+			c_high_kreldet = { # 5
+				color={ 50 10 120 }
+				color2={ 255 255 255 }
+				
+				b_high_kreldet = {
+				}
+				b_high_kreldet_2 = {
+				}
+				b_high_kreldet_3 = {
 				}
 			}
 			c_kreldet = { # 4

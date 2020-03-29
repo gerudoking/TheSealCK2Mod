@@ -1,3 +1,8 @@
+1 = {
+	name = "Athmer"
+	culture = irish
+}
+
 752 = {
     name = "Goldar"
     culture = irish
