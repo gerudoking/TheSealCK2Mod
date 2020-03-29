@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_patrons_khu"
+		texturefile = "gfx\\interface\\decision_icon_choose_khurmazta_patron_deity.dds"
+	}
+}

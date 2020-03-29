@@ -1,0 +1,28 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_papal_button_divorce"
+		texturefile = "gfx\\interface\\papal_button_divorce.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_papal_button_claim"
+		texturefile = "gfx\\interface\\papal_button_claim.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_papal_button_invasion"
+		texturefile = "gfx\\interface\\papal_button_invasion.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_papal_button_excommunicate"
+		texturefile = "gfx\\interface\\papal_button_excommunicate.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_papal_button_money"
+		texturefile = "gfx\\interface\\papal_button_money.dds"
+	}
+	
+}

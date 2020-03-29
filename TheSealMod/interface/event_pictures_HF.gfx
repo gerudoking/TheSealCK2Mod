@@ -1,0 +1,368 @@
+##################################
+# "HOLY FURY" EVENT PICTURES   	 #
+##################################
+
+spriteTypes = {
+
+	# Holy Fury
+	
+	spriteType = {
+		name = "GFX_evt_bacchants_initiation"
+		texturefile = "gfx\\event_pictures\bacchants_initiation.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_christian_exodus"
+		texturefile = "gfx\\event_pictures\christian_exodus.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_hellenic_temple"
+		texturefile = "gfx\\event_pictures\hellenic_temple.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_eagle_warriors"
+		texturefile = "gfx\\event_pictures\eagle_warriors.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_papal_coronation"
+		texturefile = "gfx\\event_pictures\papal_coronation.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_norse_tempest"
+		texturefile = "gfx\\event_pictures\norse_tempest.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_pagan_blood_sacrifice"
+		texturefile = "gfx\\event_pictures\pagan_blood_sacrifice.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_virgin_mary_icon"
+		texturefile = "gfx\\event_pictures\virgin_mary_icon.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_childrens_crusade"
+		texturefile = "gfx\\event_pictures\childrens_crusade.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_matriarchy_throne_room"
+		texturefile = "gfx\\event_pictures\matriarchy_throne_room.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_daughter_asking_mother"
+		texturefile = "gfx\\event_pictures\daughter_asking_mother_hf.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_mass_crusade"
+		texturefile = "gfx\\event_pictures\mass_crusade.tga"
+		allwaystransparent = yes	
+	}
+	spriteType = {
+		name = "GFX_evt_pagan_reformation"
+		texturefile = "gfx\\event_pictures\pagan_reformation.tga"
+		allwaystransparent = yes	
+	}
+	spriteType = {
+		name = "GFX_evt_duel_scene"
+		texturefile = "gfx\\event_pictures\duel_scene.tga"
+		allwaystransparent = yes	
+	}
+	spriteType = {
+		name = "GFX_evt_camaraderie"
+		texturefile = "gfx\\event_pictures\camaraderie.tga"
+		allwaystransparent = yes	
+	}
+	spriteType = {
+		name = "GFX_evt_teaching_moment"
+		texturefile = "gfx\\event_pictures\martial_teaching_moment.tga"
+		allwaystransparent = yes	
+	}
+	spriteType = {
+		name = "GFX_evt_northern_crusade"
+		texturefile = "gfx\\event_pictures\northern_crusade.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_fancy_feast"
+		texturefile = "gfx\\event_pictures\fancy_feast.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_beatification"
+		texturefile = "gfx\\event_pictures\beatification.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_mass_baptism"
+		texturefile = "gfx\\event_pictures\mass_baptism.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_west_african_ruler"
+		texturefile = "gfx\\event_pictures\west_african_ruler.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_a_crowning_ceremony"
+		texturefile = "gfx\\event_pictures\a_crowning_ceremony.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_diplomatic_greeting"
+		texturefile = "gfx\\event_pictures\diplomatic_greeting.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_bloodlines"
+		texturefile = "gfx\\event_pictures\bloodlines.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_upsetting_letter"
+		texturefile = "gfx\\event_pictures\upsetting_letter.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_pleasing_letter"
+		texturefile = "gfx\\event_pictures\pleasing_letter.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_armory"
+		texturefile = "gfx\\event_pictures\armory.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_duel_team"
+		texturefile = "gfx\\event_pictures\team_picture_duel.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_elder_council"
+		texturefile = "gfx\\event_pictures\elder_council.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_sway_hf"
+		texturefile = "gfx\\event_pictures\sway_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_feast_hf"
+		texturefile = "gfx\\event_pictures\feast_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_group_hf"
+		texturefile = "gfx\\event_pictures\group_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_meeting_hf"
+		texturefile = "gfx\\event_pictures\meeting_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_market_hf"
+		texturefile = "gfx\\event_pictures\market_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_cornered_duel_hf"
+		texturefile = "gfx\\event_pictures\cornered_duel_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_mounted_knights_hf"
+		texturefile = "gfx\\event_pictures\mounted_knights_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_dueling_knights_hf"
+		texturefile = "gfx\\event_pictures\dueling_knights_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_mounted_combat_hf"
+		texturefile = "gfx\\event_pictures\mounted_combat_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_arson_hf"
+		texturefile = "gfx\\event_pictures\arson_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_riders_night_hf"
+		texturefile = "gfx\\event_pictures\riders_night_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_woman_praying_hf"
+		texturefile = "gfx\\event_pictures\woman_praying_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_ship_voyage_hf"
+		texturefile = "gfx\\event_pictures\ship_voyage_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_homage_hf"
+		texturefile = "gfx\\event_pictures\homage_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_outside_tavern_hf"
+		texturefile = "gfx\\event_pictures\outside_tavern_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_sleeping_town_hf"
+		texturefile = "gfx\\event_pictures\sleeping_town_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_slit_throat_hf"
+		texturefile = "gfx\\event_pictures\slit_throat_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_burning_man_hf"
+		texturefile = "gfx\\event_pictures\burning_man_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_hooded_figure_hf"
+		texturefile = "gfx\\event_pictures\hooded_figure_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_hung_from_trees_hf"
+		texturefile = "gfx\\event_pictures\hung_from_trees_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_mountaintop_castle_hf"
+		texturefile = "gfx\\event_pictures\mountaintop_castle_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_moonlit_mountains_hf"
+		texturefile = "gfx\\event_pictures\moonlit_mountains_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_evt_staked_hf"
+		texturefile = "gfx\\event_pictures\staked_hf.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_firey_silhouette_hf"
+		texturefile = "gfx\\event_pictures\firey_silhouette_hf.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_open_book_hf"
+		texturefile = "gfx\\event_pictures\open_book_hf.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_gravedigger_hf"
+		texturefile = "gfx\\event_pictures\gravedigger_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_woman_at_window_hf"
+		texturefile = "gfx\\event_pictures\woman_at_window_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_heads_on_pikes_hf"
+		texturefile = "gfx\\event_pictures\heads_on_pikes_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_bleeding_from_neck_hf"
+		texturefile = "gfx\\event_pictures\bleeding_from_neck_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_mounted_combat_day_hf"
+		texturefile = "gfx\\event_pictures\mounted_combat_day_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_bloody_knife_hf"
+		texturefile = "gfx\\event_pictures\bloody_knife_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_dead_body_hf"
+		texturefile = "gfx\\event_pictures\dead_body_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_burning_castle_hf"
+		texturefile = "gfx\\event_pictures\burning_castle_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_diplomat_hf"
+		texturefile = "gfx\\event_pictures\diplomat_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_prisoner_hf"
+		texturefile = "gfx\\event_pictures\prisoner_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_sickness_hf"
+		texturefile = "gfx\\event_pictures\sickness_hf.dds"
+		allwaystransparent = yes
+	}
+		spriteType = {
+		name = "GFX_evt_skulls_hf"
+		texturefile = "gfx\\event_pictures\skulls_hf.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_campfire_hf"
+		texturefile = "gfx\\event_pictures\campfire_hf.dds"
+		allwaystransparent = yes
+	}
+	
+	
+}

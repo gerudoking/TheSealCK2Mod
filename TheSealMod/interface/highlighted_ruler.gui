@@ -1,0 +1,912 @@
+guiTypes = {
+	windowType = {
+		name = "upcoming_event_window"
+		position = { x=0 y=0 }
+		size = { x=251 y=497 }
+		Orientation = "CENTER"
+
+		windowType = {
+			name = "open"
+			size = { x=251 y=497 }
+
+			windowType = {
+				name = "ruler"
+				size = { x=251 y=497 }
+
+				iconType ={
+					name ="background"
+					spriteType = "GFX_highlighted_ad_bg"
+					position = { x=174 y =-179}
+				}
+
+				guiButtonType = {
+					name ="portrait"
+					quadTextureSprite = "GFX_char_150"
+					position =  { x= 221 y = -71 }
+					Orientation = "UPPER_LEFT"
+					pdx_tooltip = "CHARACTER_TOOLTIP"
+					pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+					alwaystransparent = yes
+				}
+
+				guiButtonType = {
+					name = "portrait_frame"
+					quadTextureSprite = "GFX_charframe_150"
+					position = { x= 208 y = -84 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				instantTextBoxType = {
+					name = "desc"
+					position = { x = 206 y = 117 }
+					textureFile = ""
+					font = "vic_18_black"
+					borderSize = {x = 0 y = 0}
+					text = "UI_MISSING_TEXT"    
+					maxWidth = 180
+					maxHeight = 90
+					fixedsize = yes
+					format = centre
+				}
+			}
+
+			instantTextBoxType={
+				position = {x = 190 y = -165 }
+				name = "label"
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}    
+				maxWidth = 210
+				maxHeight = 22
+				text = "HIGHLIGHTED_RULER_TITLE"
+				format = centre
+				fixedsize = yes
+			}
+
+			instantTextBoxType = {
+				name = "time_left"
+				position = { x = 190 y = -143 }
+				textureFile = ""
+				font = "small_white"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"    
+				maxWidth = 210
+				maxHeight = 20
+				fixedsize = yes
+				format = centre
+			}
+
+			iconType = {
+				name = "hint_new_content"
+				spriteType = "GFX_highlighted_event_info"
+				position = { x = 380 y = -153 }
+			}
+
+			windowType = {
+				name = "start_notification"
+				size = { x=260 y=84 }
+				position = { x = 166 y = 239 }
+
+				iconType = {
+					name = "portrait_new_content_banner"
+					spriteType = "GFX_highlighted_new_content_banner"
+					position = { x = 43 y = -202 }
+				}
+
+				instantTextBoxType = {
+					name = "portrait_new_content_banner_text"
+					position = { x = 43 y = -188 }
+					text = "UI_MISSING_TEXT"
+					font = "vic_18_black"
+					maxWidth = 174
+					format = centre
+					alwaystransparent = yes
+				}
+
+				guiButtonType = {
+					name ="msg_background"
+					spriteType = "GFX_highlighted_start_notification_yellow"
+				}
+
+				guiButtonType = {
+					name = "msg_background_flashing"
+					spriteType = "GFX_highlighted_start_notification_anim_yellow"
+				}
+
+				instantTextBoxType = {
+					name = "message"
+					position = { x = 16 y = 45 }
+					text = "UI_MISSING_TEXT"
+					font = "vic_18"
+					maxWidth = 228
+					format = centre
+					alwaystransparent = yes
+				}
+
+				iconType = {
+					name = "message_end_icon"
+					spriteType = "GFX_highlighted_icon_chalice"
+					position = { x = 132 y = 25 }
+					alwaystransparent = yes
+				}
+			}
+
+			iconType = {
+				name = "play_button_click_blocker"
+				spriteType = "GFX_standard_button_220_click_blocker"
+				position = { x = 186 y = 228 }
+			}
+
+			guiButtonType = {
+				name = "play_button"
+				position = { x=186 y=228}
+				quadTextureSprite ="GFX_standard_button_220"	
+				buttonText = "PLAY"
+				buttonFont = "vic_18"
+				clicksound = menu_click
+			}
+		}
+
+		guiButtonType = {
+			name = "extend"
+			position = { x = 179 y = -126 }
+			quadTextureSprite = "GFX_province_extend"
+			Orientation = "UPPER_LEFT"
+			clicksound = click
+		}
+
+		iconType = {
+			name = "extend_flash"
+			position = { x = 179 y = -126 }
+			spriteType = "GFX_highlighted_tab_flash"
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "highlighted_ruler_window_main"
+		position = { x=0 y=0 }
+		size = { x=251 y=497 }
+		Orientation = "CENTER"
+
+		windowType = {
+			name = "open"
+			size = { x=251 y=497 }
+
+			iconType ={
+				name ="background_crown"
+				spriteType = "GFX_highlighted_crown_smaller"
+				position = { x=238 y =-236}
+			}
+
+			windowType = {
+				name = "ruler"
+				size = { x=251 y=497 }
+
+				iconType ={
+					name ="background"
+					spriteType = "GFX_highlighted_bg"
+					position = { x=168 y =-198}
+				}
+
+				iconType ={
+					name ="background_ruler"
+					spriteType = "GFX_highlighted_ruler_bg"
+					position = { x=195 y =-91}
+				}
+
+				instantTextBoxType = {
+					name = "name"
+					position = { x = 206 y = -124 }
+					textureFile = ""
+					font = "vic_18_black"
+					borderSize = {x = 0 y = 0}
+					text = "UI_MISSING_TEXT"    
+					maxWidth = 180
+					maxHeight = 50
+					fixedsize = yes
+					format = centre
+				}
+
+				guiButtonType = {
+					name ="portrait"
+					quadTextureSprite = "GFX_char_150"
+					position =  { x= 221 y = -75 }
+					Orientation = "UPPER_LEFT"
+					pdx_tooltip = "CHARACTER_TOOLTIP"
+					pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+					alwaystransparent = yes
+				}
+
+				guiButtonType = {
+					name = "portrait_frame"
+					quadTextureSprite = "GFX_charframe_150"
+					position = { x= 208 y = -90 }
+					Orientation = "UPPER_LEFT"
+				}
+					
+				guiButtonType = {
+					position = { x= 192 y = 36 }
+					name = "shield"    
+					quadTextureSprite ="GFX_shield_medium"
+					alwaystransparent = yes
+				}
+
+				iconType = {
+					name ="crown"
+					spriteType = "GFX_shield_crown_strip_medium"
+					position = { x= 204 y = 12 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				guiButtonType = {
+					position = { x= 200 y = -83 }
+					name = "dynasty_shield"    
+					spriteType ="GFX_shield_small"
+					alwaystransparent = yes
+				}
+					
+				iconType = {
+					name ="religion_icon"
+					spriteType = "GFX_religion_icon_strip"
+					position = { x= 360 y = -84 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType = {
+					name ="government_icon"
+					spriteType = "GFX_icon_feudal_government"
+					position = { x= 361 y = 53 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				instantTextBoxType = {
+					name = "desc"
+					position = { x = 206 y = 100 }
+					textureFile = ""
+					font = "vic_18_black"
+					borderSize = {x = 0 y = 0}
+					text = "UI_MISSING_TEXT"    
+					maxWidth = 180
+					maxHeight = 90
+					fixedsize = yes
+					format = centre
+				}
+
+				OverlappingElementsBoxType = {
+					name = "traits"
+					position = { x = 208 y = 153 }
+					size = { x=175 y=32 }
+					format = centre
+				}
+			}
+
+			windowType = {
+				name = "feat"
+				size = { x=251 y=497 }
+
+				iconType ={
+					name ="background"
+					spriteType = "GFX_highlighted_main_feats_bg"
+
+					position = { x=168 y =-198}
+				}
+
+				instantTextBoxType = {
+					name = "feat_title"
+					position = { x = 206 y = -124 }
+					textureFile = ""
+					font = "vic_18_black"
+					borderSize = {x = 0 y = 0}
+					text = "FEAT_TEXT"   
+					maxWidth = 180
+					maxHeight = 90
+					fixedsize = yes
+					format = centre
+				}
+
+				listboxType = {
+					name = "feat_list"
+					position = { x = 202 y = -77 }
+					size = { x=188 y = 294 }
+					spacing = 1
+					scrollbartype = "standardlistbox_slider"
+				}
+			}
+
+			windowType = {
+				name = "social"
+				size = { x=251 y=497 }
+				
+				iconType ={
+					name = "background"
+					spriteType = "GFX_highlighted_main_social_bg"
+					position = { x = 168 y = -198 }
+				}
+
+				instantTextBoxType = {
+					name = "social_title"
+					position = { x = 206 y = -130 }
+					font = "vic_18_black"
+					text = "UI_MISSING_TEXT"   
+					maxWidth = 180
+					maxHeight = 50
+					fixedsize = yes
+					format = centre
+					alwaystransparent = yes
+				}
+
+				instantTextBoxType = {
+					name = "connection_info"
+					position = { x = 206 y = 10 }
+					font = "vic_36_black"
+					text = "UI_MISSING_TEXT"   
+					maxWidth = 180
+					maxHeight = 75
+					fixedsize = yes
+					format = centre
+					alwaystransparent = yes
+				}
+
+				listboxType = {
+					name = "leaderboard_list"
+					position = { x = 202 y = -88 }
+					size = { x = 188 y = 260 }
+					spacing = 1
+					scrollbartype = "standardlistbox_slider"
+				}
+				
+				guiButtonType = {
+					name = "leaderboard_feat_1"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 180 y = 184 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 180 y = 189 }
+					name = "leaderboard_feat_1_text"
+					text = "ROMAN_NUMERAL_I"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+
+				guiButtonType = {
+					name = "leaderboard_feat_2"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 258 y = 184 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 258 y = 189 }
+					name = "leaderboard_feat_2_text"
+					text = "ROMAN_NUMERAL_II"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+				
+				guiButtonType = {
+					name = "leaderboard_feat_3"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 336 y = 184 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 336 y = 189 }
+					name = "leaderboard_feat_3_text"
+					text = "ROMAN_NUMERAL_III"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+			}
+
+			instantTextBoxType={
+				position = {x = 190 y = -183 }
+				name = "label"
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}    
+				maxWidth = 210
+				maxHeight = 22
+				text = "HIGHLIGHTED_RULER_TITLE"
+				format = centre
+				fixedsize = yes
+			}
+
+			instantTextBoxType = {
+				name = "time_left"
+				position = { x = 190 y = -163 }
+				textureFile = ""
+				font = "small_white"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"    
+				maxWidth = 210
+				maxHeight = 20
+				fixedsize = yes
+				format = centre
+			}
+
+			windowType = {
+				name = "start_notification"
+				size = { x=260 y=84 }
+				position = { x = 166 y = 239 }
+
+				guiButtonType = {
+					name = "msg_background"
+					quadTextureSprite = "GFX_highlighted_start_notification_yellow"
+				}
+
+				guiButtonType = {
+					name = "msg_background_flashing"
+					quadTextureSprite = "GFX_highlighted_start_notification_anim_yellow"
+				}
+
+				instantTextBoxType = {
+					name = "message"
+					position = { x = 16 y = 45 }
+					text = "UI_MISSING_TEXT"
+					font = "vic_18"
+					maxWidth = 228
+					format = centre
+					alwaystransparent = yes
+				}
+
+				iconType = {
+					name = "message_end_icon"
+					spriteType = "GFX_highlighted_icon_chalice"
+					position = { x = 132 y = 25 }
+					alwaystransparent = yes
+				}
+			}
+
+			iconType = {
+				name = "play_button_click_blocker"
+				spriteType = "GFX_standard_button_220_click_blocker"
+				position = { x = 186 y = 226 }
+			}
+
+			guiButtonType = {
+				name = "play_button"
+				position = { x=186 y=226}
+				quadTextureSprite ="GFX_standard_button_220"	
+				buttonText = "PLAY"
+				buttonFont = "vic_18"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "play_button_required_dlc_sale_button"
+				position = { x = 222 y = 230 }
+				quadTextureSprite = "GFX_highlighted_dlc_sale"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "play_button_required_dlc_sale_button_flashing"
+				position = { x = 222 y = 230 }
+				quadTextureSprite = "GFX_highlighted_dlc_sale_anim"
+				clicksound = menu_click
+			}
+
+			instantTextBoxType = {
+				name = "play_button_required_dlc_sale_text"
+				position = { x = 226 y = 234 }
+				font = "vic_18"
+				text = "UI_MISSING_TEXT"
+				maxWidth = 40
+				maxHeight = 19
+				fixedsize = yes
+				format = centre
+				alwaystransparent = yes
+			}
+
+			OverlappingElementsBoxType = {
+				name = "play_button_required_dlc_list"
+				position = { x = 197 y = 226 }
+				size = { x=80 y=32 }
+				spacing = -16
+			}
+
+			guiButtonType = {
+				name = "continue_button"
+				position = { x=184 y=226}
+				quadTextureSprite ="GFX_standard_button_112"	
+				buttonText = "CONTINUE"
+				buttonFont = "vic_18"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "restart_button"
+				position = { x = 297 y = 226 }
+				quadTextureSprite ="GFX_standard_button_112"
+				buttonText = "RESTART"
+				buttonFont = "vic_18"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {   
+				name = "ruler_tab"
+				position = { x = 412 y = -126 }
+				quadTextureSprite ="GFX_highlighted_sub_ruler"
+				pdx_tooltip = "HIGHLIGHTED_RULER_RULER_TAB_NAME"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "feat_tab"
+				position = { x = 412 y = -73 }
+				quadTextureSprite ="GFX_highlighted_sub_achievements"
+				pdx_tooltip = "HIGHLIGHTED_RULER_FEAT_TAB_NAME"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "social_tab"
+				position = { x = 412 y = -20 }
+				quadTextureSprite ="GFX_highlighted_sub_highscore"
+				pdx_tooltip = "HIGHLIGHTED_RULER_SOCIAL_TAB_NAME"
+				clicksound = menu_click
+			}
+
+			iconType ={
+				name = "social_tab_flashing"
+				spriteType = "GFX_highlighted_tab_anim_yellow"
+				position = { x = 422 y = -15 }
+				alwaystransparent = yes
+			}
+		}
+
+		guiButtonType = {
+			name = "extend"
+			position = { x = 179 y = -126 }
+			quadTextureSprite = "GFX_province_extend"
+			Orientation = "UPPER_LEFT"
+			clicksound = click
+		}
+
+		iconType = {
+			name = "extend_flash"
+			position = { x = 179 y = -126 }
+			spriteType = "GFX_highlighted_tab_flash"
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "highlighted_ruler_window_pause"
+		position = { x=-18 y=-7 }
+		size = { x=251 y=497 }
+		Orientation = "CENTER"
+
+		windowType = {
+			name = "open"
+			size = { x=251 y=497 }
+
+			iconType ={
+				name ="background_crown"
+				spriteType = "GFX_highlighted_crown_smaller"
+				position = { x=238 y =-224}
+			}
+
+			windowType = {
+				name = "feat"
+				size = { x=251 y=497 }
+
+				iconType ={
+					name ="background"
+					spriteType = "GFX_highlighted_pause_feats_bg"
+					position = { x=168 y =-187}
+				}
+
+				instantTextBoxType = {
+					name = "feat_title"
+					position = { x = 206 y = -110 }
+					textureFile = ""
+					font = "vic_18_black"
+					borderSize = {x = 0 y = 0}
+					text = "FEAT_TEXT"  
+					maxWidth = 180
+					maxHeight = 90
+					fixedsize = yes
+					format = centre
+				}
+
+				listboxType = {
+					name = "feat_list"
+					position = { x = 202 y = -63 }
+					size = { x=188 y = 294 }
+					spacing = 1
+					scrollbartype = "standardlistbox_slider"
+				}
+			}
+
+			windowType = {
+				name = "social"
+				size = { x=251 y=497 }
+				
+				iconType = {
+					name = "background"
+					spriteType = "GFX_highlighted_pause_social_bg"
+					position = { x = 168 y = -187 }
+				}
+
+				instantTextBoxType = {
+					name = "social_title"
+					position = { x = 206 y = -116 }
+					font = "vic_18_black"
+					text = "UI_MISSING_TEXT"
+					maxWidth = 180
+					maxHeight = 50
+					fixedsize = yes
+					format = centre
+					alwaystransparent = yes
+				}
+
+				instantTextBoxType = {
+					name = "connection_info"
+					position = { x = 206 y = 24 }
+					font = "vic_36_black"
+					text = "UI_MISSING_TEXT"   
+					maxWidth = 180
+					maxHeight = 75
+					fixedsize = yes
+					format = centre
+					alwaystransparent = yes
+				}
+
+				listboxType = {
+					name = "leaderboard_list"
+					position = { x = 202 y = -75 }
+					size = { x = 188 y = 260 }
+					spacing = 1
+					scrollbartype = "standardlistbox_slider"
+				}
+				
+				guiButtonType = {
+					name = "leaderboard_feat_1"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 180 y = 194 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 180 y = 200 }
+					name = "leaderboard_feat_1_text"
+					text = "ROMAN_NUMERAL_I"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+
+				guiButtonType = {
+					name = "leaderboard_feat_2"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 258 y = 194 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 258 y = 200 }
+					name = "leaderboard_feat_2_text"
+					text = "ROMAN_NUMERAL_II"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+				
+				guiButtonType = {
+					name = "leaderboard_feat_3"
+					quadTextureSprite = "GFX_highlighted_leaderboard_tabs"
+					position = { x = 336 y = 194 }
+					clicksound = "menu_click"
+				}
+
+				instantTextBoxType = {
+					position = { x = 336 y = 200 }
+					name = "leaderboard_feat_3_text"
+					text = "ROMAN_NUMERAL_III"
+					font = "vic_22"
+					maxWidth = 77
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+					alwaystransparent = yes
+				}
+			}
+
+			instantTextBoxType={
+				position = {x = 190 y = -169 }
+				name = "label"
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}    
+				maxWidth = 210
+				maxHeight = 22
+				text = "HIGHLIGHTED_RULER_TITLE"
+				format = centre
+				fixedsize = yes
+			}
+
+			instantTextBoxType = {
+				name = "time_left"
+				position = { x = 190 y = -150 }
+				textureFile = ""
+				font = "small_white"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"    
+				maxWidth = 210
+				maxHeight = 20
+				fixedsize = yes
+				format = centre
+			}
+
+			guiButtonType = {
+				name = "feat_tab"
+				position = { x = 412 y = -112 }
+				quadTextureSprite ="GFX_highlighted_sub_achievements"
+				pdx_tooltip = "HIGHLIGHTED_RULER_FEAT_TAB_NAME"
+				clicksound = menu_click
+			}
+
+			guiButtonType = {
+				name = "social_tab"
+				position = { x = 412 y = -59 }
+				quadTextureSprite ="GFX_highlighted_sub_highscore"
+				pdx_tooltip = "HIGHLIGHTED_RULER_SOCIAL_TAB_NAME"
+				clicksound = menu_click
+			}
+		}
+
+		guiButtonType = {
+			name = "extend"
+			position = { x = 179 y = -112 }
+			quadTextureSprite = "GFX_province_extend"
+			Orientation = "UPPER_LEFT"
+			clicksound = click
+		}
+	}
+
+	windowType = {
+		name = "highlighted_ruler_feat_window"
+		size = { x=188 y=84 }
+
+		iconType = {
+			name = "entry_background"
+			spriteType = "GFX_highlighted_entry_big"
+		}
+
+		iconType = {
+			name = "feat_icon"
+			spriteType = "GFX_bring_it_on_34"
+			position = { x = 8 y = 24 }
+			alwaystransparent = yes
+		}
+
+		iconType = {
+			name = "feat_frame"
+			spriteType = "GFX_highlighted_frames"
+			position = { x = 3 y = 12 }
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "feat_name"
+			position = { x = 47 y = 42 }
+			font = "small_bold_white"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 137
+			maxHeight = 50
+			fixedsize = yes
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "feat_progress"
+			position = { x = 47 y = 42 }
+			font = "small_white"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 137
+			maxHeight = 50
+			fixedsize = yes
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "highlighted_ruler_leaderboard_entry"
+		size = { x = 184 y = 43 }
+
+		iconType = {
+			name = "entry_background"
+			spriteType = "GFX_highlighted_entry_tiers"
+		}
+
+		instantTextBoxType = {
+			name = "username"
+			position = { x = 8 y = 14 }
+			font = "small_bold_white"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 150
+			maxHeight = 15
+			fixedsize = yes
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "score"
+			position = { x = 8 y = 14 }
+			font = "small_bold_white"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 168
+			maxHeight = 15
+			fixedsize = yes
+			format = right
+			alwaystransparent = yes
+		}
+
+		iconType = {
+			name = "goal_complete_icon"
+			spriteType = "GFX_highlighted_icon_chalice"
+			position = { x = 164 y = 12 }
+			alwaystransparent = yes
+		}
+	}
+
+	windowType = {
+		name = "highlighted_ruler_leaderboard_top_entry"
+		size = { x = 184 y = 43 }
+
+		iconType = {
+			name = "top_background"
+			spriteType = "GFX_highlighted_top_players_entry"
+		}
+
+		instantTextBoxType = {
+			name = "username"
+			position = { x = 8 y = 12 }
+			font = "vic_18_black"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 168
+			maxHeight = 15
+			fixedsize = yes
+			alwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "score"
+			position = { x = 8 y = 12 }
+			font = "vic_18_black"
+			text = "UI_MISSING_TEXT"
+			maxWidth = 168
+			maxHeight = 15
+			fixedsize = yes
+			format = right
+			alwaystransparent = yes
+		}
+
+		iconType = {
+			name = "goal_complete_icon"
+			spriteType = "GFX_highlighted_icon_chalice"
+			position = { x = 164 y = 12 }
+			alwaystransparent = yes
+		}
+	}
+}

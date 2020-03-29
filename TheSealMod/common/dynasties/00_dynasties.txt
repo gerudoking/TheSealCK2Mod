@@ -1,0 +1,4 @@
+752 = {
+    name = "Goldar"
+    culture = irish
+}

@@ -3,7 +3,7 @@
 	dynasty=752
 
 	culture=irish
-	religion=catholic
+	religion=giantcult
 
 	father = 4
 
@@ -15,7 +15,7 @@
 	dynasty=752
 
 	culture=irish
-	religion=catholic
+	religion=giantcult
 
 	father = 4
 	
@@ -28,7 +28,7 @@
 	dynasty=752
 	
 	culture=irish
-	religion=catholic
+	religion=giantcult
 
 	father = 4
 
@@ -40,7 +40,7 @@
 	dynasty=752
 
 	culture=irish
-	religion=catholic
+	religion=giantcult
 
 	1000.6.23={ birth=yes }
 	1050.7.4={ death=yes }

@@ -13,6 +13,6 @@ b_kreldet = castle
 
 # Misc
 culture = irish
-religion = catholic
+religion = giantcult
 
 #History

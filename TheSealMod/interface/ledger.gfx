@@ -1,0 +1,35 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ledger_bg"
+		texturefile = "gfx\\interface\\ledger_bg.tga"
+		transparencecheck = yes
+		can_be_lowres = no
+	}
+	spriteType = {
+		name = "GFX_ledger_invisible_button"
+		texturefile = "gfx\\interface\\ledger_invisible_button.tga"
+		transparencecheck = no
+		can_be_lowres = no
+	}	
+	spriteType = {
+		name = "GFX_ledger_columns"
+		texturefile = "gfx\\interface\\ledger_columns.tga"
+		can_be_lowres = no
+	}
+	spriteType = {
+		name = "GFX_ledger_linegraph_bg"
+		texturefile = "gfx\\interface\\ledger_linegraph_bg.tga"
+		can_be_lowres = no
+	}
+	spriteType = {
+		name = "GFX_ledger_plupp"
+		texturefile = "gfx\\interface\\ledger_plupp.tga"
+		allwaystransparent = yes
+		can_be_lowres = no
+	}
+	LineChartType = {
+		name = "GFX_ledger_line_default"
+		size = { x=705 y=494 }
+		linewidth = 2		
+	}
+}

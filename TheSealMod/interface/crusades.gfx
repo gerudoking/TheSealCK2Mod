@@ -1,0 +1,74 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_crusade_battles_bg"
+		texturefile = "gfx\\interface\\crusade\\crusade_battles_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_crusades_background"
+		texturefile = "gfx\\interface\\crusade\\crusader_bg.dds"
+	}	
+	spriteType = {
+		name = "GFX_crusades_defender_background"
+		texturefile = "gfx\\interface\\crusade\\crusader_defender_bg.dds"
+	}	
+	spriteType = {
+		name = "GFX_icon_pot_artifacts"
+		texturefile = "gfx\\interface\\crusade\\war_chest_artifacts.dds"
+	}	
+	spriteType = {
+		name = "GFX_icon_pot_money"
+		texturefile = "gfx\\interface\\crusade\\war_chest_money.dds"
+	}	
+	spriteType = {
+		name = "GFX_icon_pot_piety"
+		texturefile = "gfx\\interface\\crusade\\war_chest_piety.dds"
+	}	
+	spriteType = {
+		name = "GFX_icon_pot_prestige"
+		texturefile = "gfx\\interface\\crusade\\war_chest_prestige.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_close_button"
+		texturefile = "gfx\\interface\\crusade\\round_close_button.dds"
+	}
+	textSpriteType = {
+		name = "GFX_crusade_button_112"
+		texturefile = "gfx\\interface\\crusade\\crusader_common_button.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_portrait_ring"
+		texturefile = "gfx\\interface\\crusade\\portrait_ring_reviever_beneficiary.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_attack"
+		texturefile = "gfx\\interface\\crusade\\hover_icons_attack.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_defend"
+		texturefile = "gfx\\interface\\crusade\\hover_icons_defence.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_reciever_btn_beneficiary"
+		texturefile = "gfx\\interface\\crusade\\reciever_btn_beneficiary.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_reciever_btn_pope"
+		texturefile = "gfx\\interface\\crusade\\reciever_btn_pope.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_reciever_btn_you"
+		texturefile = "gfx\\interface\\crusade\\reciever_btn_you.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_check_battles_button"
+		texturefile = "gfx\\interface\\crusade\\check_battles_button.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_reciever_btn_selector"
+		texturefile = "gfx\\interface\\crusade\\reciever_btn_selector.dds"
+	}
+	spriteType = {
+		name = "GFX_crusade_add_to_pot"
+		texturefile = "gfx\\interface\\crusade\\rank_up_button.dds"
+	}
+}

@@ -1,0 +1,50 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ally_order_bg"
+		texturefile = "gfx\\interface\\ally_order_bg.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_entry_bg"
+		texturefile = "gfx\\interface\\ally_order_entry.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_military_view_name_header"
+		texturefile = "gfx\\interface\\ally_order_military_view_name_header.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_military_view_order_header"
+		texturefile = "gfx\\interface\\ally_order_military_view_order_header.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_military_view_entry_bg"
+		texturefile = "gfx\\interface\\ally_order_military_view_entry.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_button"
+		texturefile = "gfx\\interface\\ally_order_button.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_icons"
+		texturefile = "gfx\\interface\\ally_order_icons.dds"
+		noOfFrames = 4
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_icons_replace"
+		texturefile = "gfx\\interface\\ally_order_icons_replace.dds"
+		noOfFrames = 4
+	}
+	
+	spriteType = {
+		name = "GFX_ally_order_icons_selected"
+		texturefile = "gfx\\interface\\ally_order_icons_selected.dds"
+		noOfFrames = 4
+	}
+}

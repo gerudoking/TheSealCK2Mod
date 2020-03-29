@@ -1,0 +1,47 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_game_rules_backgorund"
+		texturefile = "gfx/interface/rule_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_game_rules_banner"
+		texturefile = "gfx/interface/rule_wide_banner.dds"
+	}
+
+	spriteType = {
+		name = "GFX_game_rules_option_bg"
+		texturefile = "gfx/interface/rule_option_bg.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_game_rules_divider"
+		texturefile = "gfx/interface/rule_divider.dds"
+	}
+	spriteType = {
+		name = "GFX_game_rules_divider_long"
+		texturefile = "gfx/interface/rule_divider_long.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_save_dropdown"
+		texturefile = "gfx\\interface\\charbrowser_option_button_1.dds"
+		clicksound = generic_click_02
+	}
+	textSpriteType = {
+		name = "GFX_save_button"
+		texturefile = "gfx\\interface\\charbrowser_option_button_2.dds"
+		clicksound = generic_click_02
+	}
+	spriteType = {
+		name = "GFX_rule_filter_dropdown"
+		texturefile = "gfx\\interface\\charbrowser_option_button_3.dds"
+		clicksound = generic_click_02
+	}
+	textSpriteType = {
+		name = "GFX_rule_filter_button"
+		texturefile = "gfx\\interface\\charbrowser_option_button_4.dds"
+		clicksound = generic_click_02
+	}
+}

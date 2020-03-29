@@ -12,6 +12,6 @@ b_lacrima_mouth = castle
 
 # Misc
 culture = irish
-religion = catholic
+religion = giantcult
 
 #History
