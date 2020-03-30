@@ -1,0 +1,77 @@
+nanoon = {
+	graphical_cultures = { saxongfx } # units
+	
+	nanoonman = {
+		graphical_cultures = { saxongfx } # units
+		
+		color = { 0.95 0.6 0 }
+		
+		alternate_start = { 
+			year >= 1000 
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+		
+		male_names = {
+			Addam Aeron Aethan Aidan Alaric Albin Alekyne Allard Alyn Ambrose Anders Andrey Anton Archibald Arnolf Arran Arrant Arthur Aryard
+			Baylon Benedict Beric Branden
+			Casimir Caswyn Cedric Corbyn
+			Dagos Darien Daven Davos Dickon Domeric Dominic
+			Edgar Edmund Edmyn Edric
+			Farien Farrell Ferris Finnian Franklyn
+			Galwyn Garmond Garrison Gedry Gerold Gerris Guerin Gyles
+			Halbert Hugh
+			Jarmond Jarreth Jasper Jerome Joffrey Jordan Joris
+			Lambert Lancelyn Landon Lorrent Lucimore Lyonel
+			Michael Morgan Morris Mors Morys Myles
+			Olyvar Olyver Orivel Ormond
+			Perrin Perros
+			Raynald Robin Roryn
+			Quentyn Quincy
+			Samwell
+			Ulrick Urros
+			Vorian
+			Walter Warryn Willam Wyland
+			Yoren Yorick Yorwin
+		}
+		female_names = {
+			Adeline Ailys Alanna Alays Alia Alienor Allyria Alma Alyna Arabella Arenne Arianne Arlette Ashara Aslia Avelyn Azalais
+			Barbrey Bryanna
+			Caitrin Clarisse Cordelia Cyrissa
+			Delicia Denisa Denyse Dinah Doncella Dyanna
+			Elianne Elicia Elysa Erin
+			Falyce Fionalla
+			Galenna Giselle Gwyneth
+			Helen
+			Inis Ivalla Ivanna
+			Jaryse Jasmylla Jennalyn Jennelyn Jessa Jeyne Jyalla Jynessa
+			Katrin
+			Lanei Larra Leyne Liera Linnet Loreza Lorinda Lyarra Lyra
+			Marcia Marella Margaid Marietta Marise Mariya Martina Maryssa Melanna Moryssa
+			Nicolette
+			Rayne Rhona Robyna Rosarya Rossalyn
+			Serena Serene
+			Tamara Tavia Tereza
+			Ursula
+			Valeria
+			Wylla
+			Ynessa Ynys
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		feminist = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+}

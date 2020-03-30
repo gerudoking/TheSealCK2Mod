@@ -13,7 +13,7 @@ b_nafengor_3 = temple
 #b_nafengor_5 = city
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History
