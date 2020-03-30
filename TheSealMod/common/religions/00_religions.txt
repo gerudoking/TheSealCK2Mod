@@ -2806,3 +2806,36 @@ titanic = {
         autocephaly = yes
     }
 }
+
+salvatorscult = {
+	has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    crusade_cb = crusade
+    playable = yes
+    ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+    color = { 0.8 0.8 0.6 }
+
+	casimirist = {
+		graphical_culture = westerngfx
+
+		icon = 1
+		color = {0.8 0.8 0.6}
+
+		crusade_name = "CONQUEST"
+		scripture_name = THE_TALES
+		god_names = {
+			GOD_CASIMIR
+		}
+
+		investiture = yes
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_invasion_cb = invasion
+        can_grant_claim = yes
+        can_call_crusade = yes
+        priest_title = SHAMAN_PRIEST
+        allow_looting = yes
+        priests_can_marry = yes
+	}
+}

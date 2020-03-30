@@ -1,7 +1,5 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
-
-
 e_circannia = {
 	color={ 106 222 174 }
 	color2={ 255 255 20 }
@@ -187,6 +185,11 @@ e_nanoon = {
 	
 	capital = 14 # c_nafengor
 	culture = irish
+
+	religion = casimirist
+	controls_religion = casimirist
+	#caliphate = yes
+	title = "SACREDEMEPEROR"
 	
 	k_mistlands = {
 		color={ 235 226 81 }
