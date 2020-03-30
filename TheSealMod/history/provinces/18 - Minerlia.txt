@@ -13,7 +13,7 @@ b_minerlia_4 = castle
 #b_minerlia_5 = city
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History
