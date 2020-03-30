@@ -16,17 +16,6 @@ e_circannia = {
 		capital = 1 # c_frakkert
 		culture = irish
 		
-		c_high_kreldet = { # 5
-			color={ 50 10 120 }
-			color2={ 255 255 255 }
-			
-			b_high_kreldet = {
-			}
-			b_high_kreldet_2 = {
-			}
-			b_high_kreldet_3 = {
-			}
-		}
 		d_gran_frakkert = {
 			color={ 76 252 159 }
 			color2={ 255 255 255 }
@@ -85,6 +74,288 @@ e_circannia = {
 				b_lacrima_mouth_2 = {
 				}
 				b_lacrima_mouth_3 = {
+				}
+			}
+		}
+		d_northern_verdejaz = {
+			color={ 94 3 125 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 9 province_id = 10 province_id = 11 } }
+				}
+			}
+			capital = 9 # c_graymark
+			
+			c_graymark = { # 9
+				color={ 84 13 120 }
+				color2={ 255 255 255 }
+				
+				b_graymark = {
+				}
+				b_graymark_2 = {
+				}
+				b_graymark_3 = {
+				}
+			}
+			c_jaxelia = { # 11
+				color={ 90 20 70 }
+				color2={ 255 255 255 }
+				
+				b_jaxelia = {
+				}
+				b_jaxelia_2 = {
+				}
+				b_jaxelia_3 = {
+				}
+			}
+			c_tripalix = { # 10
+				color={ 84 13 70 }
+				color2={ 255 255 255 }
+				
+				b_tripalix = {
+				}
+				b_tripalix_2 = {
+				}
+				b_tripalix_3 = {
+				}
+				b_tripalix_4 = {
+				}
+			}
+		}
+		d_south_verdejaz = {
+			color={ 83 37 125 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 6 province_id = 7 province_id = 8 } }
+				}
+			}
+			capital = 6 # c_greenwoods
+			
+			c_greenwoods = { # 6
+				color={ 73 47 120 }
+				color2={ 255 255 255 }
+				
+				b_greenwoods = {
+				}
+				b_greenwoods_2 = {
+				}
+				b_greenwoods_3 = {
+				}
+				b_greenwoods_4 = {
+				}
+				b_greenwoods_5 = {
+				}
+			}
+			c_castlestrong = { # 7
+				color={ 89 72 120 }
+				color2={ 255 255 255 }
+				
+				b_castlestrong = {
+				}
+				b_castlestrong_2 = {
+				}
+				b_castlestrong_3 = {
+				}
+				b_castlestrong_4 = {
+				}
+			}
+			c_low_lacrima = { # 8
+				color={ 51 13 120 }
+				color2={ 255 255 255 }
+				
+				b_low_lacrima = {
+				}
+				b_low_lacrima_2 = {
+				}
+				b_low_lacrima_3 = {
+				}
+				b_low_lacrima_4 = {
+				}
+			}
+		}
+	}
+}
+e_nanoon = {
+	color={ 245 216 86 }
+	color2={ 255 255 20 }
+	
+	capital = 14 # c_nafengor
+	culture = irish
+	
+	k_mistlands = {
+		color={ 235 226 81 }
+		color2={ 255 255 255 }
+		
+		capital = 14 # c_nafengor
+		culture = irish
+		
+		c_nafengor = { # 14
+			color={ 205 0 66 }
+			color2={ 255 255 255 }
+			
+			b_nafengor = {
+			}
+			b_nafengor_2 = {
+			}
+			b_nafengor_3 = {
+			}
+			b_nafengor_4 = {
+			}
+			b_nafengor_5 = {
+			}
+		}
+		c_fanfon = { # 17
+			color={ 180 30 40 }
+			color2={ 255 255 255 }
+			
+			b_fanfon = {
+			}
+			b_fanfon_2 = {
+			}
+			b_fanfon_3 = {
+			}
+		}
+		c_ironguardd = { # 16
+			color={ 180 30 80 }
+			color2={ 255 255 255 }
+			
+			b_ironguardd = {
+			}
+			b_ironguardd_2 = {
+			}
+			b_ironguardd_3 = {
+			}
+			b_ironguardd_4 = {
+			}
+		}
+		c_krakon = { # 15
+			color={ 190 25 68 }
+			color2={ 255 255 255 }
+			
+			b_krakon = {
+			}
+			b_krakon_2 = {
+			}
+			b_krakon_3 = {
+			}
+		}
+		d_nafengor = {
+			color={ 215 246 71 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 14 province_id = 15 province_id = 16 province_id = 17 } }
+				}
+			}
+			capital = 14 # c_nafengor
+			
+			c_nafengor = { # 14
+				color={ 205 0 66 }
+				color2={ 255 255 255 }
+				
+				b_nafengor = {
+				}
+				b_nafengor_2 = {
+				}
+				b_nafengor_3 = {
+				}
+				b_nafengor_4 = {
+				}
+				b_nafengor_5 = {
+				}
+			}
+			c_fanfon = { # 17
+				color={ 180 30 40 }
+				color2={ 255 255 255 }
+				
+				b_fanfon = {
+				}
+				b_fanfon_2 = {
+				}
+				b_fanfon_3 = {
+				}
+			}
+			c_ironguardd = { # 16
+				color={ 180 30 80 }
+				color2={ 255 255 255 }
+				
+				b_ironguardd = {
+				}
+				b_ironguardd_2 = {
+				}
+				b_ironguardd_3 = {
+				}
+				b_ironguardd_4 = {
+				}
+			}
+			c_krakon = { # 15
+				color={ 190 25 68 }
+				color2={ 255 255 255 }
+				
+				b_krakon = {
+				}
+				b_krakon_2 = {
+				}
+				b_krakon_3 = {
+				}
+			}
+		}
+	}
+	k_highlands = {
+		color={ 190 0 55 }
+		color2={ 255 255 255 }
+		
+		capital = 18 # c_minerlia
+		culture = irish
+		
+		c_minerlia = { # 18
+			color={ 160 30 40 }
+			color2={ 255 255 255 }
+			
+			b_minerlia = {
+			}
+			b_minerlia_2 = {
+			}
+			b_minerlia_3 = {
+			}
+			b_minerlia_4 = {
+			}
+			b_minerlia_5 = {
+			}
+		}
+		d_minerlia = {
+			color={ 170 20 45 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 18 } }
+				}
+			}
+			capital = 18 # c_minerlia
+			
+			c_minerlia = { # 18
+				color={ 160 30 40 }
+				color2={ 255 255 255 }
+				
+				b_minerlia = {
+				}
+				b_minerlia_2 = {
+				}
+				b_minerlia_3 = {
+				}
+				b_minerlia_4 = {
+				}
+				b_minerlia_5 = {
 				}
 			}
 		}

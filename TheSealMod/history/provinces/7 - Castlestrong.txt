@@ -1,0 +1,18 @@
+# c_castlestrong
+
+# County Title
+title = c_castlestrong
+
+# Settlements
+max_settlements = 4
+
+b_castlestrong = castle
+b_castlestrong_2 = city
+b_castlestrong_3 = temple
+#b_castlestrong_4 = castle
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

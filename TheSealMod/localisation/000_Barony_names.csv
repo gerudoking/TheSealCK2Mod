@@ -1,4 +1,18 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+b_castlestrong;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
+b_castlestrong_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+b_castlestrong_2;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
+b_castlestrong_2_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+b_castlestrong_3;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
+b_castlestrong_3_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+b_castlestrong_4;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
+b_castlestrong_4_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+b_fanfon;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
+b_fanfon_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
+b_fanfon_2;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
+b_fanfon_2_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
+b_fanfon_3;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
+b_fanfon_3_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
 b_frakkert;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 b_frakkert_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
 b_frakkert_2;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
@@ -7,12 +21,48 @@ b_frakkert_3;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 b_frakkert_3_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
 b_frakkert_4;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 b_frakkert_4_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
+b_graymark;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
+b_graymark_adj;Graymarkian;;graymarker;;;;;;;;;;;x
+b_graymark_2;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
+b_graymark_2_adj;Graymarkian;;graymarker;;;;;;;;;;;x
+b_graymark_3;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
+b_graymark_3_adj;Graymarkian;;graymarker;;;;;;;;;;;x
+b_greenwoods;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+b_greenwoods_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
+b_greenwoods_2;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+b_greenwoods_2_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
+b_greenwoods_3;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+b_greenwoods_3_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
+b_greenwoods_4;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+b_greenwoods_4_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
+b_greenwoods_5;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+b_greenwoods_5_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
 b_high_kreldet;High Kreldet;High Kreldet;High Kreldet;;High Kreldet;;;;;;;;;x
 b_high_kreldet_adj;High Kreldetian;;High Kreldeter;;;;;;;;;;;x
 b_high_kreldet_2;High Kreldet;High Kreldet;High Kreldet;;High Kreldet;;;;;;;;;x
 b_high_kreldet_2_adj;High Kreldetian;;High Kreldeter;;;;;;;;;;;x
 b_high_kreldet_3;High Kreldet;High Kreldet;High Kreldet;;High Kreldet;;;;;;;;;x
 b_high_kreldet_3_adj;High Kreldetian;;High Kreldeter;;;;;;;;;;;x
+b_ironguardd;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
+b_ironguardd_adj;Ironguarddian;;ironguardder;;;;;;;;;;;x
+b_ironguardd_2;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
+b_ironguardd_2_adj;Ironguarddian;;ironguardder;;;;;;;;;;;x
+b_ironguardd_3;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
+b_ironguardd_3_adj;Ironguarddian;;ironguardder;;;;;;;;;;;x
+b_ironguardd_4;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
+b_ironguardd_4_adj;Ironguarddian;;ironguardder;;;;;;;;;;;x
+b_jaxelia;Jaxelia;Jaxelia;Jaxelia;;Jaxelia;;;;;;;;;x
+b_jaxelia_adj;Jaxelian;;jaxeler;;;;;;;;;;;x
+b_jaxelia_2;Jaxelia;Jaxelia;Jaxelia;;Jaxelia;;;;;;;;;x
+b_jaxelia_2_adj;Jaxelian;;jaxeler;;;;;;;;;;;x
+b_jaxelia_3;Jaxelia;Jaxelia;Jaxelia;;Jaxelia;;;;;;;;;x
+b_jaxelia_3_adj;Jaxelian;;jaxeler;;;;;;;;;;;x
+b_krakon;Krakon;Krakon;Krakon;;Krakon;;;;;;;;;x
+b_krakon_adj;Krakonian;;krakoner;;;;;;;;;;;x
+b_krakon_2;Krakon;Krakon;Krakon;;Krakon;;;;;;;;;x
+b_krakon_2_adj;Krakonian;;krakoner;;;;;;;;;;;x
+b_krakon_3;Krakon;Krakon;Krakon;;Krakon;;;;;;;;;x
+b_krakon_3_adj;Krakonian;;krakoner;;;;;;;;;;;x
 b_kreldet;Kreldet;Kreldet;Kreldet;;Kreldet;;;;;;;;;x
 b_kreldet_adj;Kreldetian;;kreldeter;;;;;;;;;;;x
 b_kreldet_2;Kreldet;Kreldet;Kreldet;;Kreldet;;;;;;;;;x
@@ -27,3 +77,39 @@ b_lacrima_mouth_2;Lacrima Mouth;Lacrima Mouth;Lacrima Mouth;;Lacrima Mouth;;;;;;
 b_lacrima_mouth_2_adj;Lacrima Mouthian;;Lacrima Mouther;;;;;;;;;;;x
 b_lacrima_mouth_3;Lacrima Mouth;Lacrima Mouth;Lacrima Mouth;;Lacrima Mouth;;;;;;;;;x
 b_lacrima_mouth_3_adj;Lacrima Mouthian;;Lacrima Mouther;;;;;;;;;;;x
+b_low_lacrima;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
+b_low_lacrima_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+b_low_lacrima_2;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
+b_low_lacrima_2_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+b_low_lacrima_3;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
+b_low_lacrima_3_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+b_low_lacrima_4;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
+b_low_lacrima_4_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+b_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+b_minerlia_adj;Minerlian;;minerler;;;;;;;;;;;x
+b_minerlia_2;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+b_minerlia_2_adj;Minerlian;;minerler;;;;;;;;;;;x
+b_minerlia_3;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+b_minerlia_3_adj;Minerlian;;minerler;;;;;;;;;;;x
+b_minerlia_4;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+b_minerlia_4_adj;Minerlian;;minerler;;;;;;;;;;;x
+b_minerlia_5;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+b_minerlia_5_adj;Minerlian;;minerler;;;;;;;;;;;x
+b_nafengor;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+b_nafengor_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+b_nafengor_2;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+b_nafengor_2_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+b_nafengor_3;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+b_nafengor_3_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+b_nafengor_4;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+b_nafengor_4_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+b_nafengor_5;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+b_nafengor_5_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+b_tripalix;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
+b_tripalix_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
+b_tripalix_2;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
+b_tripalix_2_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
+b_tripalix_3;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
+b_tripalix_3_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
+b_tripalix_4;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
+b_tripalix_4_adj;Tripalixian;;tripalixer;;;;;;;;;;;x

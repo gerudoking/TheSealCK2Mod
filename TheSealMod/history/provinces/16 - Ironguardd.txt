@@ -1,0 +1,18 @@
+# c_ironguardd
+
+# County Title
+title = c_ironguardd
+
+# Settlements
+max_settlements = 4
+
+b_ironguardd = castle
+#b_ironguardd_2 = city
+#b_ironguardd_3 = temple
+#b_ironguardd_4 = castle
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

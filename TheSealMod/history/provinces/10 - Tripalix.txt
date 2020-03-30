@@ -1,0 +1,18 @@
+# c_tripalix
+
+# County Title
+title = c_tripalix
+
+# Settlements
+max_settlements = 4
+
+b_tripalix = castle
+#b_tripalix_2 = city
+#b_tripalix_3 = temple
+#b_tripalix_4 = castle
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

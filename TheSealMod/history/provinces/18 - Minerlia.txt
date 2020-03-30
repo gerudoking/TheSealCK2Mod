@@ -1,0 +1,19 @@
+# c_minerlia
+
+# County Title
+title = c_minerlia
+
+# Settlements
+max_settlements = 5
+
+b_minerlia = castle
+b_minerlia_2 = city
+b_minerlia_3 = temple
+b_minerlia_4 = castle
+#b_minerlia_5 = city
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

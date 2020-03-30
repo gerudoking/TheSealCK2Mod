@@ -1,0 +1,19 @@
+# c_nafengor
+
+# County Title
+title = c_nafengor
+
+# Settlements
+max_settlements = 5
+
+b_nafengor = castle
+b_nafengor_2 = city
+b_nafengor_3 = temple
+#b_nafengor_4 = castle
+#b_nafengor_5 = city
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

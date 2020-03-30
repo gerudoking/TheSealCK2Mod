@@ -1,9 +1,31 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_castlestrong;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
+c_castlestrong_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+c_fanfon;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
+c_fanfon_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
 c_frakkert;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 c_frakkert_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
+c_graymark;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
+c_graymark_adj;Graymarkian;;graymarker;;;;;;;;;;;x
+c_greenwoods;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
+c_greenwoods_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
 c_high_kreldet;High Kreldet;High Kreldet;High Kreldet;;High Kreldet;;;;;;;;;x
 c_high_kreldet_adj;High Kreldetian;;High Kreldeter;;;;;;;;;;;x
+c_ironguardd;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
+c_ironguardd_adj;Ironguarddian;;ironguardder;;;;;;;;;;;x
+c_jaxelia;Jaxelia;Jaxelia;Jaxelia;;Jaxelia;;;;;;;;;x
+c_jaxelia_adj;Jaxelian;;jaxeler;;;;;;;;;;;x
+c_krakon;Krakon;Krakon;Krakon;;Krakon;;;;;;;;;x
+c_krakon_adj;Krakonian;;krakoner;;;;;;;;;;;x
 c_kreldet;Kreldet;Kreldet;Kreldet;;Kreldet;;;;;;;;;x
 c_kreldet_adj;Kreldetian;;kreldeter;;;;;;;;;;;x
 c_lacrima_mouth;Lacrima Mouth;Lacrima Mouth;Lacrima Mouth;;Lacrima Mouth;;;;;;;;;x
 c_lacrima_mouth_adj;Lacrima Mouthian;;Lacrima Mouther;;;;;;;;;;;x
+c_low_lacrima;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
+c_low_lacrima_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+c_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
+c_minerlia_adj;Minerlian;;minerler;;;;;;;;;;;x
+c_nafengor;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
+c_nafengor_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+c_tripalix;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
+c_tripalix_adj;Tripalixian;;tripalixer;;;;;;;;;;;x

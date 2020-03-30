@@ -1,0 +1,18 @@
+# c_low_lacrima
+
+# County Title
+title = c_low_lacrima
+
+# Settlements
+max_settlements = 4
+
+b_low_lacrima = castle
+#b_low_lacrima_2 = city
+#b_low_lacrima_3 = temple
+#b_low_lacrima_4 = castle
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

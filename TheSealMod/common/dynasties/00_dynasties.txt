@@ -3,6 +3,36 @@
 	culture = irish
 }
 
+2 = {
+	name = "Tristan"
+	culture = irish
+}
+
+3 = {
+	name = "Felldar"
+	culture = irish
+}
+
+4 = {
+	name = "Goldigger"
+	culture = irish
+}
+
+5 = {
+	name = "Casimir"
+	culture = irish
+}
+
+6 = {
+	name = "Herdros"
+	culture = irish
+}
+
+7 = {
+	name = "Oborum"
+	culture = irish
+}
+
 752 = {
     name = "Goldar"
     culture = irish

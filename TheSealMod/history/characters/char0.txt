@@ -55,3 +55,494 @@
 	1030.12.22={ birth=yes }
 	1102.1.29={ death=yes }
 }
+6={
+	name=Ibnar
+	dynasty=2
+	dna="abkknoibjab"
+	culture=irish religion=giantcult
+	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
+	add_trait=skilled_tactician add_trait=cruel add_trait=diligent add_trait=trusting 
+	1000.6.9={ birth=yes }
+	1063.7.20={ death=yes }
+}
+7={
+	name=Donald
+	dynasty=2
+	dna="pbkkneefjbm"
+	culture=irish religion=giantcult
+	martial=7 diplomacy=4 stewardship=7 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=kind add_trait=greedy add_trait=gregarious 
+	add_trait=cynical 
+	father=6	#Ibnar
+	1024.1.4={ birth=yes }
+	1096.4.13={ death=yes }
+}
+8={
+	name=Ibnar
+	dynasty=2
+	dna="abkanoihikb"
+	culture=irish religion=giantcult
+	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=8
+	add_trait=martial_cleric add_trait=cynical add_trait=slothful 
+	father=6	#Ibnar
+	1029.12.4={ birth=yes }
+	1096.4.28={ death=yes }
+}
+9={
+	name=Bodnar
+	dynasty=2
+	dna="ebdkalcajac"
+	culture=irish religion=giantcult
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=proud add_trait=greedy 
+	father=6	#Ibnar
+	1033.12.10={ birth=yes }
+	1102.3.12={ death=yes }
+}
+10={
+	name=Patricia
+	female=yes
+	dynasty=2
+	dna="cjfoneefcbm"
+	culture=irish religion=giantcult
+	father=7	#Donald
+	1050.7.3={ birth=yes }
+	1116.3.9={ death=yes }
+}
+11={
+	name=Robert
+	dynasty=2
+	dna="abgknaiaabm"
+	culture=irish religion=giantcult
+	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=diligent add_trait=brave add_trait=cruel add_trait=zealous 
+	father=7	#Donald
+	1052.5.23={ birth=yes }
+	1120.8.16={ death=yes }
+}
+12={
+	name=Bodnar
+	dynasty=2
+	dna="pbfkheacjlk"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=cynical 
+	father=7	#Donald
+	1055.9.21={ birth=yes }
+	1127.12.11={ death=yes }
+}
+13={
+	name=Anna
+	female=yes
+	dynasty=2
+	dna="pbmldeehjbm"
+	culture=irish religion=giantcult
+	father=7	#Donald
+	1059.5.16={ birth=yes }
+	1136.1.17={ death=yes }
+}
+14={
+	name=Lidda
+	female=yes
+	dynasty=2
+	dna="hbgkneoogbf"
+	culture=irish religion=giantcult
+	father=11	#Robert
+	1080.7.17={ birth=yes }
+	1127.6.11={ death=yes }
+}
+15={
+	name=Ibnar
+	dynasty=2
+	dna="obnknadiabg"
+	culture=irish religion=giantcult
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=impaler add_trait=lustful 
+	father=11	#Robert
+	1084.2.26={ birth=yes }
+	1135.8.7={ death=yes }
+}
+16={
+	name=Robert
+	dynasty=2
+	dna="abfnnaiapcm"
+	culture=irish religion=giantcult
+	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=slothful add_trait=proud 
+	father=11	#Robert
+	1088.10.7={ birth=yes }
+	1156.10.14={ death=yes }
+}
+17={
+	name=Donald
+	dynasty=2
+	dna="ahgpnmiaabl"
+	culture=irish religion=giantcult
+	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=diligent add_trait=lustful add_trait=cynical add_trait=shy 
+	add_trait=drunkard 
+	father=11	#Robert
+	1091.2.13={ birth=yes }
+	1146.7.23={ death=yes }
+}
+18={
+	name=Patricia
+	female=yes
+	dynasty=2
+	dna="ajgnnamaakm"
+	culture=irish religion=giantcult
+	father=11	#Robert
+	1094.4.12={ birth=yes }
+	1150.9.5={ death=yes }
+}
+19={
+	name=Robert
+	dynasty=2
+	dna="obnknhocabb"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=gluttonous add_trait=arbitrary add_trait=trusting add_trait=proud 
+	add_trait=stressed 
+	father=15	#Ibnar
+	1110.3.21={ birth=yes }
+	1178.5.3={ death=yes }
+}
+20={
+	name=Bodnar
+	dynasty=2
+	dna="mbhcnagiafg"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=5
+	add_trait=scholarly_theologian add_trait=cruel add_trait=proud add_trait=slothful add_trait=wroth 
+	add_trait=arbitrary 
+	father=15	#Ibnar
+	1114.10.9={ birth=yes }
+	1181.5.12={ death=yes }
+}
+21={
+	name=Mary
+	female=yes
+	dynasty=2
+	dna="oinbnacdabg"
+	culture=irish religion=giantcult
+	father=15	#Ibnar
+	1118.3.13={ birth=yes }
+	1184.4.26={ death=yes }
+}
+22={
+	name=Lidda
+	female=yes
+	dynasty=2
+	dna="blnfcgecabb"
+	culture=irish religion=giantcult
+	father=19	#Robert
+	1131.2.22={ birth=yes }
+	1179.1.4={ death=yes }
+}
+23={
+	name=Eldred
+	dynasty=2
+	dna="opnjnopbjbf"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=slothful add_trait=cruel add_trait=deceitful 
+	father=19	#Robert
+	1135.6.26={ birth=yes }
+	1204.6.21={ death=yes }
+}
+24={
+	name=James
+	dynasty=2
+	dna="obgknigcldb"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=charitable add_trait=humble 
+	father=19	#Robert
+	1138.6.17={ birth=yes }
+	1194.12.3={ death=yes }
+}
+25={
+	name=Mary
+	female=yes
+	dynasty=2
+	dna="obhkdlochbb"
+	culture=irish religion=giantcult
+	father=19	#Robert
+	1142.9.12={ birth=yes }
+	1195.12.7={ death=yes }
+}
+26={
+	name=James
+	dynasty=3
+	dna="baecmgipcof"
+	culture=irish religion=giantcult
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=scholarly_theologian add_trait=craven add_trait=gregarious add_trait=cynical add_trait=charitable 
+	add_trait=deceitful add_trait=wounded 
+	999.2.13={ birth=yes }
+	1060.2.14={ death=yes }
+}
+27={
+	name=Anny
+	female=yes
+	dynasty=3
+	dna="baemjgalcle"
+	culture=irish religion=giantcult
+	father=26	#James
+	1020.2.9={ birth=yes }
+	1074.4.29={ death=yes }
+}
+28={
+	name=John
+	dynasty=3
+	dna="bancmnoppif"
+	culture=irish religion=giantcult
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=8
+	add_trait=elusive_shadow add_trait=ambitious add_trait=cruel add_trait=zealous add_trait=temperate 
+	add_trait=just add_trait=genius 
+	father=26	#James
+	1021.11.1={ birth=yes }
+	1070.11.21={ death=yes }
+}
+29={
+	name=Patricia
+	female=yes
+	dynasty=3
+	dna="bgbbmgilcoi"
+	culture=irish religion=giantcult
+	father=26	#James
+	1024.8.9={ birth=yes }
+	1090.6.21={ death=yes }
+}
+30={
+	name=Freya
+	female=yes
+	dynasty=3
+	dna="paejjgipfof"
+	culture=irish religion=giantcult
+	father=26	#James
+	1027.12.25={ birth=yes }
+	1084.1.29={ death=yes }
+}
+31={
+	name=Robert
+	dynasty=3
+	dna="bancnnopgdf"
+	culture=irish religion=giantcult
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=8
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=cruel add_trait=diligent 
+	father=28	#John
+	1041.7.12={ birth=yes }
+	1112.4.9={ death=yes }
+}
+32={
+	name=Ibner
+	dynasty=3
+	dna="bdjcmnfhpof"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=6
+	add_trait=midas_touched add_trait=lustful add_trait=honest add_trait=envious add_trait=craven 
+	add_trait=just add_trait=shy add_trait=possessed 
+	father=28	#John
+	1045.11.19={ birth=yes }
+	1097.5.5={ death=yes }
+}
+33={
+	name=Anny
+	female=yes
+	dynasty=3
+	dna="bpncmkflbic"
+	culture=irish religion=giantcult
+	father=28	#John
+	1049.1.18={ birth=yes }
+	1101.11.11={ death=yes }
+}
+34={
+	name=Patricia
+	female=yes
+	dynasty=3
+	dna="baocmnpppih"
+	culture=irish religion=giantcult
+	father=28	#John
+	1051.2.3={ birth=yes }
+	1100.9.12={ death=yes }
+}
+35={
+	name=Olfred
+	dynasty=3
+	dna="bfpminohpai"
+	culture=irish religion=giantcult
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=shy add_trait=kind add_trait=gluttonous 
+	add_trait=cruel 
+	father=28	#John
+	1055.9.5={ birth=yes }
+	1106.10.26={ death=yes }
+}
+36={
+	name=Olfred
+	dynasty=3
+	dna="balcdndlfjo"
+	culture=irish religion=giantcult
+	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=craven add_trait=humble add_trait=honest add_trait=gluttonous 
+	add_trait=greedy add_trait=drunkard 
+	father=31	#Robert
+	1065.3.3={ birth=yes }
+	1125.8.2={ death=yes }
+}
+37={
+	name=Patricia
+	female=yes
+	dynasty=3
+	dna="aalcfbogagl"
+	culture=irish religion=giantcult
+	father=31	#Robert
+	1069.3.19={ birth=yes }
+	1124.3.22={ death=yes }
+}
+38={
+	name=Robert
+	dynasty=3
+	dna="okecnnlmmpf"
+	culture=irish religion=giantcult
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=kind add_trait=shy add_trait=greedy 
+	father=31	#Robert
+	1073.7.10={ birth=yes }
+	1145.9.12={ death=yes }
+}
+39={
+	name=Patricia
+	female=yes
+	dynasty=3
+	dna="becchkpagef"
+	culture=irish religion=giantcult
+	father=31	#Robert
+	1077.10.10={ birth=yes }
+	1131.8.1={ death=yes }
+}
+40={
+	name=Linda
+	female=yes
+	dynasty=3
+	dna="olfcdnkjbio"
+	culture=irish religion=giantcult
+	father=36	#Olfred
+	1095.2.15={ birth=yes }
+	1147.7.19={ death=yes }
+}
+41={
+	name=Olfred
+	dynasty=3
+	dna="blajafklpjg"
+	culture=irish religion=giantcult
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=ambitious add_trait=charitable add_trait=cynical add_trait=deceitful 
+	father=36	#Olfred
+	1098.10.16={ birth=yes }
+	1146.11.26={ death=yes }
+}
+42={
+	name=Mary
+	female=yes
+	dynasty=3
+	dna="bkhgecdljjc"
+	culture=irish religion=giantcult
+	father=36	#Olfred
+	1103.2.7={ birth=yes }
+	1155.10.31={ death=yes }
+}
+43={
+	name=Linda
+	female=yes
+	dynasty=3
+	dna="afajaeklbkl"
+	culture=irish religion=giantcult
+	father=41	#Olfred
+	1119.5.6={ birth=yes }
+	1186.1.21={ death=yes }
+}
+44={
+	name=Markk
+	dynasty=3
+	dna="maagafknpeg"
+	culture=irish religion=giantcult
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=hunter add_trait=diligent add_trait=temperate add_trait=just 
+	add_trait=cruel add_trait=ambitious add_trait=kind 
+	father=41	#Olfred
+	1123.7.6={ birth=yes }
+	1192.3.12={ death=yes }
+}
+45={
+	name=Linda
+	female=yes
+	dynasty=3
+	dna="bgkicgmfgig"
+	culture=irish religion=giantcult
+	father=41	#Olfred
+	1125.8.22={ birth=yes }
+	1183.2.18={ death=yes }
+}
+46={
+	name=Linda
+	female=yes
+	dynasty=3
+	dna="blphnfbllgg"
+	culture=irish religion=giantcult
+	father=41	#Olfred
+	1129.5.1={ birth=yes }
+	1177.4.19={ death=yes }
+}
+47={
+	name=Eldred
+	dynasty=3
+	dna="dlaaafklgcg"
+	culture=irish religion=giantcult
+	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=martial_cleric add_trait=ambitious add_trait=gregarious 
+	father=41	#Olfred
+	1131.7.16={ birth=yes }
+	1211.2.19={ death=yes }
+}
+48={
+	name=Olbolur
+	dynasty=4
+	culture=irish religion=giantcult
+	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
+	1010.7.16={ birth=yes }
+	1085.2.19={ death=yes }
+}
+49={
+	name=Casimir
+	dynasty=5
+	culture=irish religion=giantcult
+	martial=18 diplomacy=10 stewardship=12 intrigue=8 learning=12
+	1010.7.16={ birth=yes }
+	1085.2.19={ death=yes }
+}
+50={
+	name=Farind
+	dynasty=6
+	culture=irish religion=giantcult
+	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
+	1030.7.16={ birth=yes }
+	1085.2.19={ death=yes }
+}
+51={
+	name=Breden
+	dynasty=6
+	culture=irish religion=giantcult
+	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
+	1010.7.16={ birth=yes }
+	1085.2.19={ death=yes }
+}
+52={
+	name=Greykon
+	dynasty=7
+	culture=irish religion=giantcult
+	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
+	1010.7.16={ birth=yes }
+	1085.2.19={ death=yes }
+}

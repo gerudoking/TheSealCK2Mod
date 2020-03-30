@@ -1,0 +1,17 @@
+# c_jaxelia
+
+# County Title
+title = c_jaxelia
+
+# Settlements
+max_settlements = 3
+
+b_jaxelia = castle
+b_jaxelia_2 = city
+#b_jaxelia_3 = temple
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

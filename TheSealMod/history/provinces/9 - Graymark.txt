@@ -1,0 +1,17 @@
+# c_graymark
+
+# County Title
+title = c_graymark
+
+# Settlements
+max_settlements = 3
+
+b_graymark = castle
+#b_graymark_2 = city
+#b_graymark_3 = temple
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History

@@ -1,0 +1,19 @@
+# c_greenwoods
+
+# County Title
+title = c_greenwoods
+
+# Settlements
+max_settlements = 5
+
+b_greenwoods = castle
+#b_greenwoods_2 = city
+#b_greenwoods_3 = temple
+#b_greenwoods_4 = castle
+#b_greenwoods_5 = city
+
+# Misc
+culture = irish
+religion = giantcult
+
+#History
