@@ -518,9 +518,23 @@
 	name=Casimir
 	dynasty=5
 	culture=nanoonman religion=giantcult
+	dna = aeecjkgdeae
+	properties = 0d00i0
+	race = nanoonman
 	martial=18 diplomacy=10 stewardship=12 intrigue=8 learning=12
+	trait = "brilliant_strategist"
+	trait = "immortal"
+	trait = "strong"
+	trait = "giant"
+	trait = "brawny"
+	trait = "ambitious"
+	trait = "adventurer"
+	trait = "proud"
+	trait = "wroth"
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
+	
+	historical = yes
 }
 50={
 	name=Farind

@@ -1,14 +1,17 @@
 nanoon = {
-	graphical_cultures = { saxongfx } # units
+	graphical_cultures = { westerngfx } # units
 	
 	nanoonman = {
-		graphical_cultures = { saxongfx } # units
+		graphical_cultures = { saxongfx germangfx }
+		unit_graphical_cultures = { saxongfx englishgfx }
 		
 		color = { 0.95 0.6 0 }
 		
-		alternate_start = { 
-			year >= 1000 
-			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
 		}
 		
 		male_names = {
@@ -68,8 +71,6 @@ nanoon = {
 		pat_grm_name_chance = 15
 		mat_grm_name_chance = 10
 		mother_name_chance = 0
-
-		feminist = yes
 		
 		modifier = default_culture_modifier
 	}
