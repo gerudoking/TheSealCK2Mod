@@ -11,7 +11,7 @@ b_graymark = castle
 #b_graymark_3 = temple
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

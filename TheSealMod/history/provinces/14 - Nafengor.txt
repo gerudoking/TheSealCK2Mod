@@ -14,6 +14,6 @@ b_nafengor_3 = temple
 
 # Misc
 culture = nanoonman
-religion = giantcult
+religion = casimirist
 
 #History

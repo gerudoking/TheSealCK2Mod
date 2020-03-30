@@ -12,7 +12,7 @@ b_low_lacrima = castle
 #b_low_lacrima_4 = castle
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

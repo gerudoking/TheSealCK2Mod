@@ -11,7 +11,7 @@ b_lacrima_mouth = castle
 #b_lacrima_mouth_3 = temple
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

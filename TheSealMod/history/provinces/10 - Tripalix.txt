@@ -12,7 +12,7 @@ b_tripalix = castle
 #b_tripalix_4 = castle
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

@@ -13,7 +13,7 @@ b_greenwoods = castle
 #b_greenwoods_5 = city
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

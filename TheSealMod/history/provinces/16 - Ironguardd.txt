@@ -12,7 +12,7 @@ b_ironguardd = castle
 #b_ironguardd_4 = castle
 
 # Misc
-culture = irish
-religion = giantcult
+culture = nanoonman
+religion = casimirist
 
 #History

@@ -2,7 +2,7 @@
 	name=Ibnar
 	dynasty=752
 
-	culture=irish
+	culture=nanoonman
 	religion=giantcult
 
 	father = 4
@@ -14,7 +14,7 @@
 	name=Bodnar
 	dynasty=752
 
-	culture=irish
+	culture=nanoonman
 	religion=giantcult
 
 	father = 4
@@ -27,7 +27,7 @@
 	female=yes
 	dynasty=752
 	
-	culture=irish
+	culture=nanoonman
 	religion=giantcult
 
 	father = 4
@@ -39,7 +39,7 @@
 	name=Ibner
 	dynasty=752
 
-	culture=irish
+	culture=nanoonman
 	religion=giantcult
 
 	1000.6.23={ birth=yes }
@@ -49,7 +49,7 @@
 	name=Andreos
 	dynasty=1
 
-	culture=irish
+	culture=nanoonman
 	religion=giantcult
 
 	1030.12.22={ birth=yes }
@@ -59,7 +59,7 @@
 	name=Ibnar
 	dynasty=2
 	dna="abkknoibjab"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=8
 	add_trait=skilled_tactician add_trait=cruel add_trait=diligent add_trait=trusting 
 	1000.6.9={ birth=yes }
@@ -69,7 +69,7 @@
 	name=Donald
 	dynasty=2
 	dna="pbkkneefjbm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=7 diplomacy=4 stewardship=7 intrigue=5 learning=5
 	add_trait=charismatic_negotiator add_trait=chaste add_trait=kind add_trait=greedy add_trait=gregarious 
 	add_trait=cynical 
@@ -81,7 +81,7 @@
 	name=Ibnar
 	dynasty=2
 	dna="abkanoihikb"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=5 diplomacy=5 stewardship=7 intrigue=5 learning=8
 	add_trait=martial_cleric add_trait=cynical add_trait=slothful 
 	father=6	#Ibnar
@@ -92,7 +92,7 @@
 	name=Bodnar
 	dynasty=2
 	dna="ebdkalcajac"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
 	add_trait=misguided_warrior add_trait=content add_trait=proud add_trait=greedy 
 	father=6	#Ibnar
@@ -104,7 +104,7 @@
 	female=yes
 	dynasty=2
 	dna="cjfoneefcbm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=7	#Donald
 	1050.7.3={ birth=yes }
 	1116.3.9={ death=yes }
@@ -113,7 +113,7 @@
 	name=Robert
 	dynasty=2
 	dna="abgknaiaabm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=6 stewardship=6 intrigue=4 learning=4
 	add_trait=charismatic_negotiator add_trait=diligent add_trait=brave add_trait=cruel add_trait=zealous 
 	father=7	#Donald
@@ -124,7 +124,7 @@
 	name=Bodnar
 	dynasty=2
 	dna="pbfkheacjlk"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=8 stewardship=8 intrigue=4 learning=7
 	add_trait=tough_soldier add_trait=cynical 
 	father=7	#Donald
@@ -136,7 +136,7 @@
 	female=yes
 	dynasty=2
 	dna="pbmldeehjbm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=7	#Donald
 	1059.5.16={ birth=yes }
 	1136.1.17={ death=yes }
@@ -146,7 +146,7 @@
 	female=yes
 	dynasty=2
 	dna="hbgkneoogbf"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=11	#Robert
 	1080.7.17={ birth=yes }
 	1127.6.11={ death=yes }
@@ -155,7 +155,7 @@
 	name=Ibnar
 	dynasty=2
 	dna="obnknadiabg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=7
 	add_trait=midas_touched add_trait=impaler add_trait=lustful 
 	father=11	#Robert
@@ -166,7 +166,7 @@
 	name=Robert
 	dynasty=2
 	dna="abfnnaiapcm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=7 stewardship=4 intrigue=8 learning=7
 	add_trait=scholarly_theologian add_trait=slothful add_trait=proud 
 	father=11	#Robert
@@ -177,7 +177,7 @@
 	name=Donald
 	dynasty=2
 	dna="ahgpnmiaabl"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=5 diplomacy=8 stewardship=8 intrigue=7 learning=4
 	add_trait=thrifty_clerk add_trait=diligent add_trait=lustful add_trait=cynical add_trait=shy 
 	add_trait=drunkard 
@@ -190,7 +190,7 @@
 	female=yes
 	dynasty=2
 	dna="ajgnnamaakm"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=11	#Robert
 	1094.4.12={ birth=yes }
 	1150.9.5={ death=yes }
@@ -199,7 +199,7 @@
 	name=Robert
 	dynasty=2
 	dna="obnknhocabb"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=7 stewardship=4 intrigue=4 learning=8
 	add_trait=grey_eminence add_trait=gluttonous add_trait=arbitrary add_trait=trusting add_trait=proud 
 	add_trait=stressed 
@@ -211,7 +211,7 @@
 	name=Bodnar
 	dynasty=2
 	dna="mbhcnagiafg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=4 stewardship=7 intrigue=6 learning=5
 	add_trait=scholarly_theologian add_trait=cruel add_trait=proud add_trait=slothful add_trait=wroth 
 	add_trait=arbitrary 
@@ -224,7 +224,7 @@
 	female=yes
 	dynasty=2
 	dna="oinbnacdabg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=15	#Ibnar
 	1118.3.13={ birth=yes }
 	1184.4.26={ death=yes }
@@ -234,7 +234,7 @@
 	female=yes
 	dynasty=2
 	dna="blnfcgecabb"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=19	#Robert
 	1131.2.22={ birth=yes }
 	1179.1.4={ death=yes }
@@ -243,7 +243,7 @@
 	name=Eldred
 	dynasty=2
 	dna="opnjnopbjbf"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=7 stewardship=4 intrigue=7 learning=4
 	add_trait=flamboyant_schemer add_trait=slothful add_trait=cruel add_trait=deceitful 
 	father=19	#Robert
@@ -254,7 +254,7 @@
 	name=James
 	dynasty=2
 	dna="obgknigcldb"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=4
 	add_trait=flamboyant_schemer add_trait=charitable add_trait=humble 
 	father=19	#Robert
@@ -266,7 +266,7 @@
 	female=yes
 	dynasty=2
 	dna="obhkdlochbb"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=19	#Robert
 	1142.9.12={ birth=yes }
 	1195.12.7={ death=yes }
@@ -275,7 +275,7 @@
 	name=James
 	dynasty=3
 	dna="baecmgipcof"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=8
 	add_trait=scholarly_theologian add_trait=craven add_trait=gregarious add_trait=cynical add_trait=charitable 
 	add_trait=deceitful add_trait=wounded 
@@ -287,7 +287,7 @@
 	female=yes
 	dynasty=3
 	dna="baemjgalcle"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=26	#James
 	1020.2.9={ birth=yes }
 	1074.4.29={ death=yes }
@@ -296,7 +296,7 @@
 	name=John
 	dynasty=3
 	dna="bancmnoppif"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=8
 	add_trait=elusive_shadow add_trait=ambitious add_trait=cruel add_trait=zealous add_trait=temperate 
 	add_trait=just add_trait=genius 
@@ -309,7 +309,7 @@
 	female=yes
 	dynasty=3
 	dna="bgbbmgilcoi"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=26	#James
 	1024.8.9={ birth=yes }
 	1090.6.21={ death=yes }
@@ -319,7 +319,7 @@
 	female=yes
 	dynasty=3
 	dna="paejjgipfof"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=26	#James
 	1027.12.25={ birth=yes }
 	1084.1.29={ death=yes }
@@ -328,7 +328,7 @@
 	name=Robert
 	dynasty=3
 	dna="bancnnopgdf"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=8
 	add_trait=charismatic_negotiator add_trait=paranoid add_trait=cruel add_trait=diligent 
 	father=28	#John
@@ -339,7 +339,7 @@
 	name=Ibner
 	dynasty=3
 	dna="bdjcmnfhpof"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=4 stewardship=4 intrigue=8 learning=6
 	add_trait=midas_touched add_trait=lustful add_trait=honest add_trait=envious add_trait=craven 
 	add_trait=just add_trait=shy add_trait=possessed 
@@ -352,7 +352,7 @@
 	female=yes
 	dynasty=3
 	dna="bpncmkflbic"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=28	#John
 	1049.1.18={ birth=yes }
 	1101.11.11={ death=yes }
@@ -362,7 +362,7 @@
 	female=yes
 	dynasty=3
 	dna="baocmnpppih"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=28	#John
 	1051.2.3={ birth=yes }
 	1100.9.12={ death=yes }
@@ -371,7 +371,7 @@
 	name=Olfred
 	dynasty=3
 	dna="bfpminohpai"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
 	add_trait=charismatic_negotiator add_trait=hunter add_trait=shy add_trait=kind add_trait=gluttonous 
 	add_trait=cruel 
@@ -383,7 +383,7 @@
 	name=Olfred
 	dynasty=3
 	dna="balcdndlfjo"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=4
 	add_trait=midas_touched add_trait=craven add_trait=humble add_trait=honest add_trait=gluttonous 
 	add_trait=greedy add_trait=drunkard 
@@ -396,7 +396,7 @@
 	female=yes
 	dynasty=3
 	dna="aalcfbogagl"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=31	#Robert
 	1069.3.19={ birth=yes }
 	1124.3.22={ death=yes }
@@ -405,7 +405,7 @@
 	name=Robert
 	dynasty=3
 	dna="okecnnlmmpf"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
 	add_trait=detached_priest add_trait=kind add_trait=shy add_trait=greedy 
 	father=31	#Robert
@@ -417,7 +417,7 @@
 	female=yes
 	dynasty=3
 	dna="becchkpagef"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=31	#Robert
 	1077.10.10={ birth=yes }
 	1131.8.1={ death=yes }
@@ -427,7 +427,7 @@
 	female=yes
 	dynasty=3
 	dna="olfcdnkjbio"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=36	#Olfred
 	1095.2.15={ birth=yes }
 	1147.7.19={ death=yes }
@@ -436,7 +436,7 @@
 	name=Olfred
 	dynasty=3
 	dna="blajafklpjg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=6
 	add_trait=martial_cleric add_trait=ambitious add_trait=charitable add_trait=cynical add_trait=deceitful 
 	father=36	#Olfred
@@ -448,7 +448,7 @@
 	female=yes
 	dynasty=3
 	dna="bkhgecdljjc"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=36	#Olfred
 	1103.2.7={ birth=yes }
 	1155.10.31={ death=yes }
@@ -458,7 +458,7 @@
 	female=yes
 	dynasty=3
 	dna="afajaeklbkl"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=41	#Olfred
 	1119.5.6={ birth=yes }
 	1186.1.21={ death=yes }
@@ -467,7 +467,7 @@
 	name=Markk
 	dynasty=3
 	dna="maagafknpeg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
 	add_trait=midas_touched add_trait=hunter add_trait=diligent add_trait=temperate add_trait=just 
 	add_trait=cruel add_trait=ambitious add_trait=kind 
@@ -480,7 +480,7 @@
 	female=yes
 	dynasty=3
 	dna="bgkicgmfgig"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=41	#Olfred
 	1125.8.22={ birth=yes }
 	1183.2.18={ death=yes }
@@ -490,7 +490,7 @@
 	female=yes
 	dynasty=3
 	dna="blphnfbllgg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	father=41	#Olfred
 	1129.5.1={ birth=yes }
 	1177.4.19={ death=yes }
@@ -499,7 +499,7 @@
 	name=Eldred
 	dynasty=3
 	dna="dlaaafklgcg"
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
 	add_trait=martial_cleric add_trait=ambitious add_trait=gregarious 
 	father=41	#Olfred
@@ -509,7 +509,7 @@
 48={
 	name=Olbolur
 	dynasty=4
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
@@ -517,7 +517,7 @@
 49={
 	name=Casimir
 	dynasty=5
-	culture=nanoonman religion=giantcult
+	culture=nanoonman religion=casimirist
 	dna = aeecjkgdeae
 	properties = 0d00i0
 	race = nanoonman
@@ -539,7 +539,7 @@
 50={
 	name=Farind
 	dynasty=6
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1030.7.16={ birth=yes }
 	1085.2.19={ death=yes }
@@ -547,7 +547,7 @@
 51={
 	name=Breden
 	dynasty=6
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
@@ -555,7 +555,7 @@
 52={
 	name=Greykon
 	dynasty=7
-	culture=irish religion=giantcult
+	culture=nanoonman religion=giantcult
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }

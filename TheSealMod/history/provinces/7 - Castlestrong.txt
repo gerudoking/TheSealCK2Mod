@@ -12,7 +12,7 @@ b_castlestrong_3 = temple
 #b_castlestrong_4 = castle
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

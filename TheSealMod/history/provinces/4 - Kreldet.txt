@@ -12,7 +12,7 @@ b_kreldet = castle
 #b_kreldet_4 = castle
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History

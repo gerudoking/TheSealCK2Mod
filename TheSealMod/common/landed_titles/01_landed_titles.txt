@@ -1,18 +1,20 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
+
+
 e_circannia = {
 	color={ 106 222 174 }
 	color2={ 255 255 20 }
 	
 	capital = 1 # c_frakkert
-	culture = irish
+	culture = nanoonman
 	
 	k_verdejaz = {
 		color={ 96 232 169 }
 		color2={ 255 255 255 }
 		
 		capital = 1 # c_frakkert
-		culture = irish
+		culture = nanoonman
 		
 		d_gran_frakkert = {
 			color={ 76 252 159 }
@@ -184,70 +186,17 @@ e_nanoon = {
 	color2={ 255 255 20 }
 	
 	capital = 14 # c_nafengor
-	culture = irish
-
-	religion = casimirist
-	controls_religion = casimirist
-	#caliphate = yes
-	title = "SACREDEMEPEROR"
+	culture = nanoonman
+	religion=casimirist
+	controls_religion=casimirist
 	
 	k_mistlands = {
 		color={ 235 226 81 }
 		color2={ 255 255 255 }
 		
 		capital = 14 # c_nafengor
-		culture = irish
+		culture = nanoonman
 		
-		c_nafengor = { # 14
-			color={ 205 0 66 }
-			color2={ 255 255 255 }
-			
-			b_nafengor = {
-			}
-			b_nafengor_2 = {
-			}
-			b_nafengor_3 = {
-			}
-			b_nafengor_4 = {
-			}
-			b_nafengor_5 = {
-			}
-		}
-		c_fanfon = { # 17
-			color={ 180 30 40 }
-			color2={ 255 255 255 }
-			
-			b_fanfon = {
-			}
-			b_fanfon_2 = {
-			}
-			b_fanfon_3 = {
-			}
-		}
-		c_ironguardd = { # 16
-			color={ 180 30 80 }
-			color2={ 255 255 255 }
-			
-			b_ironguardd = {
-			}
-			b_ironguardd_2 = {
-			}
-			b_ironguardd_3 = {
-			}
-			b_ironguardd_4 = {
-			}
-		}
-		c_krakon = { # 15
-			color={ 190 25 68 }
-			color2={ 255 255 255 }
-			
-			b_krakon = {
-			}
-			b_krakon_2 = {
-			}
-			b_krakon_3 = {
-			}
-		}
 		d_nafengor = {
 			color={ 215 246 71 }
 			color2={ 255 255 255 }
@@ -317,23 +266,8 @@ e_nanoon = {
 		color2={ 255 255 255 }
 		
 		capital = 18 # c_minerlia
-		culture = irish
+		culture = nanoonman
 		
-		c_minerlia = { # 18
-			color={ 160 30 40 }
-			color2={ 255 255 255 }
-			
-			b_minerlia = {
-			}
-			b_minerlia_2 = {
-			}
-			b_minerlia_3 = {
-			}
-			b_minerlia_4 = {
-			}
-			b_minerlia_5 = {
-			}
-		}
 		d_minerlia = {
 			color={ 170 20 45 }
 			color2={ 255 255 255 }

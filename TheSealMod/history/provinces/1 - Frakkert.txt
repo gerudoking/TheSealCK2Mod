@@ -12,7 +12,7 @@ b_frakkert = castle
 #b_frakkert_4 = castle
 
 # Misc
-culture = irish
+culture = nanoonman
 religion = giantcult
 
 #History
