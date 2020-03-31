@@ -520,7 +520,6 @@
 	culture=nanoonman religion=casimirist
 	dna = aeecjkgdeae
 	properties = 0d00i0
-	race = nanoonman
 	martial=18 diplomacy=10 stewardship=12 intrigue=8 learning=12
 	trait = "brilliant_strategist"
 	trait = "immortal"

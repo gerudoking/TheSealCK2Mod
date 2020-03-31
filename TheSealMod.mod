@@ -1,6 +1,7 @@
 name = "The Seal CK2"
 path = "mod/TheSealMod"
 user_dir = "TheSealMod"
+
 replace_path = "map"
 replace_path = "history/provinces"
 replace_path = "history/titles"
@@ -14,5 +15,4 @@ replace_path = "common/cultures"
 replace_path = "common/religions"
 replace_path = "common/dynasties"
 replace_path = "common/governments"
-replace_path = "interface"
 replace_path = "dlc_metadata/dlc_characters"
