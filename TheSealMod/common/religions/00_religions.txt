@@ -2782,7 +2782,7 @@ titanic = {
     color = { 0.8 0.8 0.6 }
          
     giantcult = {
-        graphical_culture = westerngfx
+        graphical_culture = saxongfx
          
         icon = 37
         color = { 0.8 0.8 0.6 }
