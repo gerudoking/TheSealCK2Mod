@@ -2,8 +2,8 @@ nanoon = {
 	graphical_cultures = { westerngfx } # units
 	
 	nanoonman = {
-		graphical_cultures = { saxongfx germangfx }
-		unit_graphical_cultures = { saxongfx englishgfx }
+		graphical_cultures = { englishgfx germangfx }
+		unit_graphical_cultures = { englishgfx }
 		
 		color = { 0.95 0.6 0 }
 		
