@@ -4,5 +4,3 @@ k_coptic = {
    religion = casimirist
    controls_religion = casimirist
 }
-
-1030.1.1={holder=49}
