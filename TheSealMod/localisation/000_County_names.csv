@@ -9,14 +9,26 @@ c_beldale;Beldale;Beldale;Beldale;;Beldale;;;;;;;;;x
 c_beldale_adj;Beldalean;;beldaler;;;;;;;;;;;x
 c_castlestrong;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
 c_castlestrong_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+c_darkpass;Darkpass;Darkpass;Darkpass;;Darkpass;;;;;;;;;x
+c_darkpass_adj;Darkpassian;;darkpasser;;;;;;;;;;;x
+c_dekkerton;Dekkerton;Dekkerton;Dekkerton;;Dekkerton;;;;;;;;;x
+c_dekkerton_adj;Dekkertonian;;dekkertoner;;;;;;;;;;;x
+c_dikker_plains;Dikker Plains;Dikker Plains;Dikker Plains;;Dikker Plains;;;;;;;;;x
+c_dikker_plains_adj;Dikker Plainsian;;Dikker Plainser;;;;;;;;;;;x
+c_dwarven_mountains;Dwarven Mountains;Dwarven Mountains;Dwarven Mountains;;Dwarven Mountains;;;;;;;;;x
+c_dwarven_mountains_adj;Dwarven Mountainsian;;Dwarven Mountainser;;;;;;;;;;;x
 c_dyanthorn;Dyanthorn;Dyanthorn;Dyanthorn;;Dyanthorn;;;;;;;;;x
 c_dyanthorn_adj;Dyanthornian;;dyanthorner;;;;;;;;;;;x
+c_eastern_seacyde;Eastern Seacyde;Eastern Seacyde;Eastern Seacyde;;Eastern Seacyde;;;;;;;;;x
+c_eastern_seacyde_adj;Eastern Seacydean;;Eastern Seacyder;;;;;;;;;;;x
 c_fanfon;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
 c_fanfon_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
 c_frakkert;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 c_frakkert_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
 c_frontiir;Frontiir;Frontiir;Frontiir;;Frontiir;;;;;;;;;x
 c_frontiir_adj;Frontiirian;;frontiirer;;;;;;;;;;;x
+c_garhold;Garhold;Garhold;Garhold;;Garhold;;;;;;;;;x
+c_garhold_adj;Garholdian;;garholder;;;;;;;;;;;x
 c_geeldron;Geeldron;Geeldron;Geeldron;;Geeldron;;;;;;;;;x
 c_geeldron_adj;Geeldronian;;geeldroner;;;;;;;;;;;x
 c_graymark;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
@@ -39,11 +51,27 @@ c_lacrima_mouth;Lacrima Mouth;Lacrima Mouth;Lacrima Mouth;;Lacrima Mouth;;;;;;;;
 c_lacrima_mouth_adj;Lacrima Mouthian;;Lacrima Mouther;;;;;;;;;;;x
 c_low_lacrima;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
 c_low_lacrima_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+c_marsh_plains;Marsh Plains;Marsh Plains;Marsh Plains;;Marsh Plains;;;;;;;;;x
+c_marsh_plains_adj;Marsh Plainsian;;Marsh Plainser;;;;;;;;;;;x
+c_mild_cinzal;Mild Cinzal;Mild Cinzal;Mild Cinzal;;Mild Cinzal;;;;;;;;;x
+c_mild_cinzal_adj;Mild Cinzalian;;Mild Cinzaler;;;;;;;;;;;x
+c_minehills;Minehills;Minehills;Minehills;;Minehills;;;;;;;;;x
+c_minehills_adj;Minehillsian;;minehillser;;;;;;;;;;;x
 c_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
 c_minerlia_adj;Minerlian;;minerler;;;;;;;;;;;x
 c_nafengor;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
 c_nafengor_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
 c_nanukinn;Nanukinn;Nanukinn;Nanukinn;;Nanukinn;;;;;;;;;x
 c_nanukinn_adj;Nanukinnian;;nanukinner;;;;;;;;;;;x
+c_river_plains;River Plains;River Plains;River Plains;;River Plains;;;;;;;;;x
+c_river_plains_adj;River Plainsian;;River Plainser;;;;;;;;;;;x
+c_steel_pass;Steel Pass;Steel Pass;Steel Pass;;Steel Pass;;;;;;;;;x
+c_steel_pass_adj;Steel Passian;;Steel Passer;;;;;;;;;;;x
 c_tripalix;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
 c_tripalix_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
+c_ultown;Ultown;Ultown;Ultown;;Ultown;;;;;;;;;x
+c_ultown_adj;Ultownian;;ultowner;;;;;;;;;;;x
+c_underpass;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+c_underpass_adj;Underpassian;;underpasser;;;;;;;;;;;x
+c_western_seacyde;Western Seacyde;Western Seacyde;Western Seacyde;;Western Seacyde;;;;;;;;;x
+c_western_seacyde_adj;Western Seacydean;;Western Seacyder;;;;;;;;;;;x

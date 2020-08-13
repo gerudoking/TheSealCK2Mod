@@ -1,0 +1,10 @@
+# e_circannia
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_goldlands
+}
+
+1040.1.1={holder=71}

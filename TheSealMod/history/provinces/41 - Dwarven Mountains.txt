@@ -1,0 +1,18 @@
+# c_dwarven_mountains
+
+# County Title
+title = c_dwarven_mountains
+
+# Settlements
+max_settlements = 4
+
+b_dwarven_mountains = castle
+b_dwarven_mountains_2 = city
+b_dwarven_mountains_3 = temple
+#b_dwarven_mountains_4 = castle
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

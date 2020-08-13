@@ -1,0 +1,19 @@
+# c_underpass
+
+# County Title
+title = c_underpass
+
+# Settlements
+max_settlements = 5
+
+b_underpass = castle
+b_underpass_2 = city
+#b_underpass_3 = temple
+#b_underpass_4 = castle
+#b_underpass_5 = city
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

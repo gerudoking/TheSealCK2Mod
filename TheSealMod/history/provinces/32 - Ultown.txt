@@ -1,0 +1,18 @@
+# c_ultown
+
+# County Title
+title = c_ultown
+
+# Settlements
+max_settlements = 4
+
+b_ultown = castle
+#b_ultown_2 = city
+#b_ultown_3 = temple
+#b_ultown_4 = castle
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

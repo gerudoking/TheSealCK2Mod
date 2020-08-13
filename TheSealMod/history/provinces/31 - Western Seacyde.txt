@@ -1,0 +1,18 @@
+# c_western_seacyde
+
+# County Title
+title = c_western_seacyde
+
+# Settlements
+max_settlements = 4
+
+b_western_seacyde = castle
+#b_western_seacyde_2 = city
+#b_western_seacyde_3 = temple
+#b_western_seacyde_4 = castle
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

@@ -1,0 +1,17 @@
+# c_river_plains
+
+# County Title
+title = c_river_plains
+
+# Settlements
+max_settlements = 3
+
+b_river_plains = castle
+b_river_plains_2 = city
+#b_river_plains_3 = temple
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

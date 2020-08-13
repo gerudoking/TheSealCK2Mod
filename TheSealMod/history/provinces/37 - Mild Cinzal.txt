@@ -1,0 +1,18 @@
+# c_mild_cinzal
+
+# County Title
+title = c_mild_cinzal
+
+# Settlements
+max_settlements = 4
+
+b_mild_cinzal = castle
+#b_mild_cinzal_2 = city
+#b_mild_cinzal_3 = temple
+#b_mild_cinzal_4 = castle
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

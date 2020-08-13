@@ -1,0 +1,17 @@
+# c_dikker_plains
+
+# County Title
+title = c_dikker_plains
+
+# Settlements
+max_settlements = 3
+
+b_dikker_plains = castle
+b_dikker_plains_2 = city
+#b_dikker_plains_3 = temple
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

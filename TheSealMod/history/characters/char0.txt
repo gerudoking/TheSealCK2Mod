@@ -544,7 +544,7 @@
 51={
 	name=Breden
 	dynasty=6
-	culture=nanoonman religion=giantcult
+	culture=nanoonman religion=casimirist
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
@@ -552,8 +552,217 @@
 52={
 	name=Greykon
 	dynasty=7
-	culture=nanoonman religion=giantcult
+	culture=nanoonman religion=casimirist
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
+}
+53={
+	name=Markk
+	dynasty=8
+	dna="pfcmbhddffn"
+	culture=nanoonman religion=giantcult
+	martial=5 diplomacy=5 stewardship=8 intrigue=7 learning=6
+	add_trait=thrifty_clerk add_trait=zealous add_trait=lustful add_trait=deceitful add_trait=charitable 
+	add_trait=envious 
+	1019.12.11={ birth=yes }
+	1081.12.20={ death=yes }
+}
+54={
+	name=James
+	dynasty=8
+	dna="mimmhmdbofk"
+	culture=nanoonman religion=giantcult
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=8
+	add_trait=flamboyant_schemer add_trait=cruel add_trait=greedy add_trait=paranoid add_trait=gluttonous 
+	father=53	#Markk
+	1025.8.10={ birth=yes }
+	1103.2.10={ death=yes }
+}
+55={
+	name=James
+	dynasty=8
+	dna="ffombhbcbmn"
+	culture=nanoonman religion=giantcult
+	martial=6 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=indulgent_wastrel add_trait=just add_trait=kind add_trait=temperate add_trait=ambitious 
+	father=53	#Markk
+	1037.10.4={ birth=yes }
+	1114.7.29={ death=yes }
+}
+56={
+	name=Breden
+	dynasty=8
+	dna="pfccghikfpn"
+	culture=nanoonman religion=giantcult
+	martial=7 diplomacy=4 stewardship=6 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=greedy add_trait=cruel add_trait=honest 
+	add_trait=lustful 
+	father=53	#Markk
+	1044.8.21={ birth=yes }
+	1107.5.21={ death=yes }
+}
+57={
+	name=Julya
+	female=yes
+	dynasty=8
+	dna="pmdechcdcfc"
+	culture=nanoonman religion=giantcult
+	father=53	#Markk
+	1054.4.21={ birth=yes }
+	1122.1.1={ death=yes }
+}
+58={
+	name=John
+	dynasty=8
+	dna="lnfjhfgpfff"
+	culture=nanoonman religion=giantcult
+	martial=8 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=gregarious add_trait=chaste add_trait=trusting 
+	father=54	#James
+	1037.7.11={ birth=yes }
+	1091.9.3={ death=yes }
+}
+59={
+	name=Breden
+	dynasty=8
+	dna="pdimghcgjhe"
+	culture=nanoonman religion=giantcult
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=diligent add_trait=content add_trait=gregarious 
+	add_trait=paranoid add_trait=lisp 
+	1038.6.26={ birth=yes }
+	1102.7.28={ death=yes }
+}
+60={
+	name=Lolboa
+	female=yes
+	dynasty=8
+	dna="mcmmmcmbofk"
+	culture=nanoonman religion=giantcult
+	father=54	#James
+	1053.11.24={ birth=yes }
+	1140.6.2={ death=yes }
+}
+61={
+	name=Julya
+	female=yes
+	dynasty=8
+	dna="aimmhmdgifa"
+	culture=nanoonman religion=giantcult
+	father=54	#James
+	1064.6.11={ birth=yes }
+	1138.4.27={ death=yes }
+}
+62={
+	name=Lolboa
+	female=yes
+	dynasty=11
+	dna="lnbjlpldffc"
+	culture=nanoonman religion=giantcult
+	1041.1.22={ birth=yes }
+	1132.4.8={ death=yes }
+}
+63={
+	name=James
+	dynasty=8
+	dna="fefjhfgefkf"
+	culture=nanoonman religion=giantcult
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=content add_trait=wroth add_trait=proud add_trait=just 
+	add_trait=charitable 
+	father=58	#John
+	1050.2.20={ birth=yes }
+	1132.2.20={ death=yes }
+}
+64={
+	name=Arnold
+	dynasty=9
+	culture=nanoonman religion=casimirist
+	1041.1.22={ birth=yes }
+	1132.4.8={ death=yes }
+}
+65={
+	name=Kaydonir
+	dynasty=10
+	culture=nanoonman religion=giantcult
+	1041.1.22={ birth=yes }
+	1132.4.8={ death=yes }
+}
+66={
+	name=Ilbonn
+	dynasty=9
+	culture=nanoonman religion=casimirist
+	1039.2.20={ birth=yes }
+	1132.4.8={ death=yes }
+}
+67={
+	name=Aidan
+	dynasty=12
+	dna="pigihbljhjg"
+	culture=nanoonman religion=giantcult
+	martial=5 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=scholarly_theologian add_trait=gluttonous add_trait=zealous add_trait=ambitious add_trait=just 
+	1019.3.7={ birth=yes }
+	1081.3.26={ death=yes }
+}
+68={
+	name=Alia
+	female=yes
+	dynasty=12
+	dna="pchilbljhjg"
+	culture=nanoonman religion=giantcult
+	father=67	#Aidan
+	1021.8.19={ birth=yes }
+	1095.9.20={ death=yes }
+}
+69={
+	name=Ferris
+	dynasty=12
+	dna="pkjipjibdjg"
+	culture=nanoonman religion=giantcult
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=zealous add_trait=possessed 
+	father=67	#Aidan
+	1029.11.27={ birth=yes }
+	1090.4.9={ death=yes }
+}
+70={
+	name=Arabella
+	female=yes
+	dynasty=12
+	dna="pigihblehjg"
+	culture=nanoonman religion=giantcult
+	father=67	#Aidan
+	1034.7.24={ birth=yes }
+	1107.10.5={ death=yes }
+}
+71={
+	name=Anders
+	dynasty=12
+	dna="jigpdblmhjc"
+	culture=nanoonman religion=giantcult
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=honest add_trait=proud add_trait=ambitious 
+	father=67	#Aidan
+	1041.10.4={ birth=yes }
+	1116.6.17={ death=yes }
+}
+72={
+	name=Dykkon
+	dynasty=13
+	culture=nanoonman religion=giantcult
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=honest add_trait=proud add_trait=ambitious 
+	1040.10.4={ birth=yes }
+	1116.6.17={ death=yes }
+}
+73={
+	name=Gol
+	dynasty=14
+	culture=nanoonman religion=giantcult
+	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=honest add_trait=proud add_trait=ambitious 
+	1030.8.4={ birth=yes }
+	1116.6.17={ death=yes }
 }

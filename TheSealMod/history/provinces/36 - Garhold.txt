@@ -1,0 +1,18 @@
+# c_garhold
+
+# County Title
+title = c_garhold
+
+# Settlements
+max_settlements = 4
+
+b_garhold = castle
+b_garhold_2 = city
+b_garhold_3 = temple
+#b_garhold_4 = castle
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

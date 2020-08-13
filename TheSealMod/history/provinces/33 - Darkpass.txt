@@ -1,0 +1,17 @@
+# c_darkpass
+
+# County Title
+title = c_darkpass
+
+# Settlements
+max_settlements = 3
+
+b_darkpass = castle
+#b_darkpass_2 = city
+#b_darkpass_3 = temple
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

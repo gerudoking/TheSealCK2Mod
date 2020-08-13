@@ -1,4 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_dwarvenlands;Dwarvenlands;Dwarvenlands;Dwarvenlands;;Dwarvenlands;;;;;;;;;x
+d_dwarvenlands_adj;Dwarvenlandsian;;dwarvenlandser;;;;;;;;;;;x
+d_eastmarch;Eastmarch;Eastmarch;Eastmarch;;Eastmarch;;;;;;;;;x
+d_eastmarch_adj;Eastmarchian;;eastmarcher;;;;;;;;;;;x
+d_farmarch;Farmarch;Farmarch;Farmarch;;Farmarch;;;;;;;;;x
+d_farmarch_adj;Farmarchian;;farmarcher;;;;;;;;;;;x
 d_gran_frakkert;Gran Frakkert;Gran Frakkert;Gran Frakkert;;Gran Frakkert;;;;;;;;;x
 d_gran_frakkert_adj;Gran Frakkertian;;Gran Frakkerter;;;;;;;;;;;x
 d_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
@@ -11,9 +17,13 @@ d_new_mistlands;New Mistlands;New Mistlands;New Mistlands;;New Mistlands;;;;;;;;
 d_new_mistlands_adj;New Mistlandsian;;New Mistlandser;;;;;;;;;;;x
 d_northern_verdejaz;Northern Verdejaz;Northern Verdejaz;Northern Verdejaz;;Northern Verdejaz;;;;;;;;;x
 d_northern_verdejaz_adj;Northern Verdejazian;;Northern Verdejazer;;;;;;;;;;;x
+d_plainlands;Plainlands;Plainlands;Plainlands;;Plainlands;;;;;;;;;x
+d_plainlands_adj;Plainlandsian;;plainlandser;;;;;;;;;;;x
 d_south_verdejaz;South Verdejaz;South Verdejaz;South Verdejaz;;South Verdejaz;;;;;;;;;x
 d_south_verdejaz_adj;South Verdejazian;;South Verdejazer;;;;;;;;;;;x
 d_southern_cinzais;Southern Cinzais;Southern Cinzais;Southern Cinzais;;Southern Cinzais;;;;;;;;;x
 d_southern_cinzais_adj;Southern Cinzaisian;;Southern Cinzaiser;;;;;;;;;;;x
+d_three_golds;Three Golds;Three Golds;Three Golds;;Three Golds;;;;;;;;;x
+d_three_golds_adj;Three Goldsian;;Three Goldser;;;;;;;;;;;x
 d_western_cinzais;Western Cinzais;Western Cinzais;Western Cinzais;;Western Cinzais;;;;;;;;;x
 d_western_cinzais_adj;Western Cinzaisian;;Western Cinzaiser;;;;;;;;;;;x

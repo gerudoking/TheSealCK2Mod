@@ -1,39 +1,77 @@
 1 = {
 	name = "Athmer"
-	culture = irish
+	culture = nanoonman
 }
 
 2 = {
 	name = "Tristan"
-	culture = irish
+	culture = nanoonman
 }
 
 3 = {
 	name = "Felldar"
-	culture = irish
+	culture = nanoonman
 }
 
 4 = {
 	name = "Goldigger"
-	culture = irish
+	culture = nanoonman
 }
 
 5 = {
 	name = "Casimir"
-	culture = irish
+	culture = nanoonman
 }
 
 6 = {
 	name = "Herdros"
-	culture = irish
+	culture = nanoonman
 }
 
 7 = {
 	name = "Oborum"
-	culture = irish
+	culture = nanoonman
 }
+
+8 = {
+	name = "Dalborn"
+	culture = nanoonman
+}
+
+9 = {
+	name = "Geldarr"
+	culture = nanoonman
+}
+
+10 = {
+	name = "Brokneck"
+	culture = nanoonman
+}
+
+11 = {
+	name = "Donnigerton"
+	culture = nanoonman
+}
+
+12 = {
+	name = "Artristan"
+	culture = nanoonman
+}
+
+13 = {
+	name = "Silverdagger"
+	culture = nanoonman
+}
+
+
+14 = {
+	name = "Gar"
+	culture = nanoonman
+}
+
+
 
 752 = {
     name = "Goldar"
-    culture = irish
+    culture = nanoonman
 }

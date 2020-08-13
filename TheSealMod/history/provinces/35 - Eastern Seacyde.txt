@@ -1,0 +1,18 @@
+# c_eastern_seacyde
+
+# County Title
+title = c_eastern_seacyde
+
+# Settlements
+max_settlements = 4
+
+b_eastern_seacyde = castle
+#b_eastern_seacyde_2 = city
+#b_eastern_seacyde_3 = temple
+#b_eastern_seacyde_4 = castle
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

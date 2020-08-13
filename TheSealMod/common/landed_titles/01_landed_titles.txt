@@ -187,63 +187,6 @@ e_circannia = {
 		capital = 19 # c_abeldoun
 		culture = nanoonman
 		
-		c_abeldoun = { # 19
-			color={ 160 40 140 }
-			color2={ 255 255 255 }
-			
-			b_abeldoun = {
-			}
-			b_abeldoun_2 = {
-			}
-			b_abeldoun_3 = {
-			}
-		}
-		c_ahdorin = { # 23
-			color={ 105 80 130 }
-			color2={ 255 255 255 }
-			
-			b_ahdorin = {
-			}
-			b_ahdorin_2 = {
-			}
-			b_ahdorin_3 = {
-			}
-			b_ahdorin_4 = {
-			}
-		}
-		c_dyanthorn = { # 21
-			color={ 160 35 150 }
-			color2={ 255 255 255 }
-			
-			b_dyanthorn = {
-			}
-			b_dyanthorn_2 = {
-			}
-			b_dyanthorn_3 = {
-			}
-		}
-		c_frontiir = { # 28
-			color={ 80 80 121 }
-			color2={ 255 255 255 }
-			
-			b_frontiir = {
-			}
-			b_frontiir_2 = {
-			}
-			b_frontiir_3 = {
-			}
-		}
-		c_geeldron = { # 22
-			color={ 100 60 130 }
-			color2={ 255 255 255 }
-			
-			b_geeldron = {
-			}
-			b_geeldron_2 = {
-			}
-			b_geeldron_3 = {
-			}
-		}
 		d_southern_cinzais = {
 			color={ 170 30 145 }
 			color2={ 255 255 255 }
@@ -328,6 +271,431 @@ e_circannia = {
 			}
 		}
 	}
+	k_goldlands = {
+		color={ 119 246 107 }
+		color2={ 255 255 255 }
+		
+		capital = 29 # c_steel_pass
+		culture = nanoonman
+		
+		c_steel_pass = { # 29
+			color={ 89 20 92 }
+			color2={ 255 255 255 }
+			
+			b_steel_pass = {
+			}
+			b_steel_pass_2 = {
+			}
+			b_steel_pass_3 = {
+			}
+			b_steel_pass_4 = {
+			}
+		}
+		c_darkpass = { # 33
+			color={ 94 24 94 }
+			color2={ 255 255 255 }
+			
+			b_darkpass = {
+			}
+			b_darkpass_2 = {
+			}
+			b_darkpass_3 = {
+			}
+		}
+		c_dekkerton = { # 42
+			color={ 84 82 82 }
+			color2={ 255 255 255 }
+			
+			b_dekkerton = {
+			}
+			b_dekkerton_2 = {
+			}
+			b_dekkerton_3 = {
+			}
+			b_dekkerton_4 = {
+			}
+		}
+		c_dikker_plains = { # 38
+			color={ 81 30 98 }
+			color2={ 255 255 255 }
+			
+			b_dikker_plains = {
+			}
+			b_dikker_plains_2 = {
+			}
+			b_dikker_plains_3 = {
+			}
+		}
+		c_dwarven_mountains = { # 41
+			color={ 90 81 81 }
+			color2={ 255 255 255 }
+			
+			b_dwarven_mountains = {
+			}
+			b_dwarven_mountains_2 = {
+			}
+			b_dwarven_mountains_3 = {
+			}
+			b_dwarven_mountains_4 = {
+			}
+		}
+		c_eastern_seacyde = { # 35
+			color={ 110 20 99 }
+			color2={ 255 255 255 }
+			
+			b_eastern_seacyde = {
+			}
+			b_eastern_seacyde_2 = {
+			}
+			b_eastern_seacyde_3 = {
+			}
+			b_eastern_seacyde_4 = {
+			}
+		}
+		c_garhold = { # 36
+			color={ 111 30 98 }
+			color2={ 255 255 255 }
+			
+			b_garhold = {
+			}
+			b_garhold_2 = {
+			}
+			b_garhold_3 = {
+			}
+			b_garhold_4 = {
+			}
+		}
+		c_marsh_plains = { # 39
+			color={ 80 90 99 }
+			color2={ 255 255 255 }
+			
+			b_marsh_plains = {
+			}
+			b_marsh_plains_2 = {
+			}
+			b_marsh_plains_3 = {
+			}
+			b_marsh_plains_4 = {
+			}
+		}
+		c_mild_cinzal = { # 37
+			color={ 80 85 100 }
+			color2={ 255 255 255 }
+			
+			b_mild_cinzal = {
+			}
+			b_mild_cinzal_2 = {
+			}
+			b_mild_cinzal_3 = {
+			}
+			b_mild_cinzal_4 = {
+			}
+		}
+		c_minehills = { # 34
+			color={ 100 10 100 }
+			color2={ 255 255 255 }
+			
+			b_minehills = {
+			}
+			b_minehills_2 = {
+			}
+			b_minehills_3 = {
+			}
+		}
+		c_river_plains = { # 40
+			color={ 85 95 78 }
+			color2={ 255 255 255 }
+			
+			b_river_plains = {
+			}
+			b_river_plains_2 = {
+			}
+			b_river_plains_3 = {
+			}
+		}
+		c_ultown = { # 32
+			color={ 104 34 84 }
+			color2={ 255 255 255 }
+			
+			b_ultown = {
+			}
+			b_ultown_2 = {
+			}
+			b_ultown_3 = {
+			}
+			b_ultown_4 = {
+			}
+		}
+		c_underpass = { # 30
+			color={ 100 21 70 }
+			color2={ 255 255 255 }
+			
+			b_underpass = {
+			}
+			b_underpass_2 = {
+			}
+			b_underpass_3 = {
+			}
+			b_underpass_4 = {
+			}
+			b_underpass_5 = {
+			}
+		}
+		c_western_seacyde = { # 31
+			color={ 105 31 60 }
+			color2={ 255 255 255 }
+			
+			b_western_seacyde = {
+			}
+			b_western_seacyde_2 = {
+			}
+			b_western_seacyde_3 = {
+			}
+			b_western_seacyde_4 = {
+			}
+		}
+		d_eastmarch = {
+			color={ 99 10 97 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 } }
+				}
+			}
+			capital = 29 # c_steel_pass
+			
+			c_steel_pass = { # 29
+				color={ 89 20 92 }
+				color2={ 255 255 255 }
+				
+				b_steel_pass = {
+				}
+				b_steel_pass_2 = {
+				}
+				b_steel_pass_3 = {
+				}
+				b_steel_pass_4 = {
+				}
+			}
+			c_underpass = { # 30
+				color={ 100 21 70 }
+				color2={ 255 255 255 }
+				
+				b_underpass = {
+				}
+				b_underpass_2 = {
+				}
+				b_underpass_3 = {
+				}
+				b_underpass_4 = {
+				}
+				b_underpass_5 = {
+				}
+			}
+			c_western_seacyde = { # 31
+				color={ 105 31 60 }
+				color2={ 255 255 255 }
+				
+				b_western_seacyde = {
+				}
+				b_western_seacyde_2 = {
+				}
+				b_western_seacyde_3 = {
+				}
+				b_western_seacyde_4 = {
+				}
+			}
+		}
+		d_dwarvenlands = {
+			color={ 100 71 86 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 41 province_id = 42 } }
+				}
+			}
+			capital = 41 # c_dwarven_mountains
+			
+			c_dwarven_mountains = { # 41
+				color={ 90 81 81 }
+				color2={ 255 255 255 }
+				
+				b_dwarven_mountains = {
+				}
+				b_dwarven_mountains_2 = {
+				}
+				b_dwarven_mountains_3 = {
+				}
+				b_dwarven_mountains_4 = {
+				}
+			}
+			c_dekkerton = { # 42
+				color={ 84 82 82 }
+				color2={ 255 255 255 }
+				
+				b_dekkerton = {
+				}
+				b_dekkerton_2 = {
+				}
+				b_dekkerton_3 = {
+				}
+				b_dekkerton_4 = {
+				}
+			}
+		}
+		d_farmarch = {
+			color={ 120 10 104 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 35 province_id = 36 province_id = 37 } }
+				}
+			}
+			capital = 35 # c_eastern_seacyde
+			
+			c_eastern_seacyde = { # 35
+				color={ 110 20 99 }
+				color2={ 255 255 255 }
+				
+				b_eastern_seacyde = {
+				}
+				b_eastern_seacyde_2 = {
+				}
+				b_eastern_seacyde_3 = {
+				}
+				b_eastern_seacyde_4 = {
+				}
+			}
+			c_garhold = { # 36
+				color={ 111 30 98 }
+				color2={ 255 255 255 }
+				
+				b_garhold = {
+				}
+				b_garhold_2 = {
+				}
+				b_garhold_3 = {
+				}
+				b_garhold_4 = {
+				}
+			}
+			c_mild_cinzal = { # 37
+				color={ 80 85 100 }
+				color2={ 255 255 255 }
+				
+				b_mild_cinzal = {
+				}
+				b_mild_cinzal_2 = {
+				}
+				b_mild_cinzal_3 = {
+				}
+				b_mild_cinzal_4 = {
+				}
+			}
+		}
+		d_plainlands = {
+			color={ 91 20 103 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 38 province_id = 39 province_id = 40 } }
+				}
+			}
+			capital = 38 # c_dikker_plains
+			
+			c_dikker_plains = { # 38
+				color={ 81 30 98 }
+				color2={ 255 255 255 }
+				
+				b_dikker_plains = {
+				}
+				b_dikker_plains_2 = {
+				}
+				b_dikker_plains_3 = {
+				}
+			}
+			c_marsh_plains = { # 39
+				color={ 80 90 99 }
+				color2={ 255 255 255 }
+				
+				b_marsh_plains = {
+				}
+				b_marsh_plains_2 = {
+				}
+				b_marsh_plains_3 = {
+				}
+				b_marsh_plains_4 = {
+				}
+			}
+			c_river_plains = { # 40
+				color={ 85 95 78 }
+				color2={ 255 255 255 }
+				
+				b_river_plains = {
+				}
+				b_river_plains_2 = {
+				}
+				b_river_plains_3 = {
+				}
+			}
+		}
+		d_three_golds = {
+			color={ 114 24 89 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 32 province_id = 33 province_id = 34 } }
+				}
+			}
+			capital = 32 # c_ultown
+			
+			c_ultown = { # 32
+				color={ 104 34 84 }
+				color2={ 255 255 255 }
+				
+				b_ultown = {
+				}
+				b_ultown_2 = {
+				}
+				b_ultown_3 = {
+				}
+				b_ultown_4 = {
+				}
+			}
+			c_darkpass = { # 33
+				color={ 94 24 94 }
+				color2={ 255 255 255 }
+				
+				b_darkpass = {
+				}
+				b_darkpass_2 = {
+				}
+				b_darkpass_3 = {
+				}
+			}
+			c_minehills = { # 34
+				color={ 100 10 100 }
+				color2={ 255 255 255 }
+				
+				b_minehills = {
+				}
+				b_minehills_2 = {
+				}
+				b_minehills_3 = {
+				}
+			}
+		}
+	}
 }
 e_nanoon = {
 	color={ 245 216 86 }
@@ -343,46 +711,6 @@ e_nanoon = {
 		capital = 14 # c_nafengor
 		culture = nanoonman
 		
-		c_alderdale = { # 25
-			color={ 195 20 65 }
-			color2={ 255 255 255 }
-			
-			b_alderdale = {
-			}
-			b_alderdale_2 = {
-			}
-		}
-		c_beldale = { # 26
-			color={ 189 15 62 }
-			color2={ 255 255 255 }
-			
-			b_beldale = {
-			}
-			b_beldale_2 = {
-			}
-		}
-		c_herdonnig = { # 27
-			color={ 130 30 47 }
-			color2={ 255 255 255 }
-			
-			b_herdonnig = {
-			}
-			b_herdonnig_2 = {
-			}
-			b_herdonnig_3 = {
-			}
-		}
-		c_nanukinn = { # 24
-			color={ 200 10 80 }
-			color2={ 255 255 255 }
-			
-			b_nanukinn = {
-			}
-			b_nanukinn_2 = {
-			}
-			b_nanukinn_3 = {
-			}
-		}
 		d_nafengor = {
 			color={ 215 246 71 }
 			color2={ 255 255 255 }

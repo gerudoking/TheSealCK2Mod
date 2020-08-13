@@ -1,0 +1,18 @@
+# c_steel_pass
+
+# County Title
+title = c_steel_pass
+
+# Settlements
+max_settlements = 4
+
+b_steel_pass = castle
+b_steel_pass_2 = city
+#b_steel_pass_3 = temple
+#b_steel_pass_4 = castle
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

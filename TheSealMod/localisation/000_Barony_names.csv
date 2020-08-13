@@ -29,12 +29,48 @@ b_castlestrong_3;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
 b_castlestrong_3_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
 b_castlestrong_4;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
 b_castlestrong_4_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+b_darkpass;Darkpass;Darkpass;Darkpass;;Darkpass;;;;;;;;;x
+b_darkpass_adj;Darkpassian;;darkpasser;;;;;;;;;;;x
+b_darkpass_2;Darkpass;Darkpass;Darkpass;;Darkpass;;;;;;;;;x
+b_darkpass_2_adj;Darkpassian;;darkpasser;;;;;;;;;;;x
+b_darkpass_3;Darkpass;Darkpass;Darkpass;;Darkpass;;;;;;;;;x
+b_darkpass_3_adj;Darkpassian;;darkpasser;;;;;;;;;;;x
+b_dekkerton;Dekkerton;Dekkerton;Dekkerton;;Dekkerton;;;;;;;;;x
+b_dekkerton_adj;Dekkertonian;;dekkertoner;;;;;;;;;;;x
+b_dekkerton_2;Dekkerton;Dekkerton;Dekkerton;;Dekkerton;;;;;;;;;x
+b_dekkerton_2_adj;Dekkertonian;;dekkertoner;;;;;;;;;;;x
+b_dekkerton_3;Dekkerton;Dekkerton;Dekkerton;;Dekkerton;;;;;;;;;x
+b_dekkerton_3_adj;Dekkertonian;;dekkertoner;;;;;;;;;;;x
+b_dekkerton_4;Dekkerton;Dekkerton;Dekkerton;;Dekkerton;;;;;;;;;x
+b_dekkerton_4_adj;Dekkertonian;;dekkertoner;;;;;;;;;;;x
+b_dikker_plains;Dikker Plains;Dikker Plains;Dikker Plains;;Dikker Plains;;;;;;;;;x
+b_dikker_plains_adj;Dikker Plainsian;;Dikker Plainser;;;;;;;;;;;x
+b_dikker_plains_2;Dikker Plains;Dikker Plains;Dikker Plains;;Dikker Plains;;;;;;;;;x
+b_dikker_plains_2_adj;Dikker Plainsian;;Dikker Plainser;;;;;;;;;;;x
+b_dikker_plains_3;Dikker Plains;Dikker Plains;Dikker Plains;;Dikker Plains;;;;;;;;;x
+b_dikker_plains_3_adj;Dikker Plainsian;;Dikker Plainser;;;;;;;;;;;x
+b_dwarven_mountains;Dwarven Mountains;Dwarven Mountains;Dwarven Mountains;;Dwarven Mountains;;;;;;;;;x
+b_dwarven_mountains_adj;Dwarven Mountainsian;;Dwarven Mountainser;;;;;;;;;;;x
+b_dwarven_mountains_2;Dwarven Mountains;Dwarven Mountains;Dwarven Mountains;;Dwarven Mountains;;;;;;;;;x
+b_dwarven_mountains_2_adj;Dwarven Mountainsian;;Dwarven Mountainser;;;;;;;;;;;x
+b_dwarven_mountains_3;Dwarven Mountains;Dwarven Mountains;Dwarven Mountains;;Dwarven Mountains;;;;;;;;;x
+b_dwarven_mountains_3_adj;Dwarven Mountainsian;;Dwarven Mountainser;;;;;;;;;;;x
+b_dwarven_mountains_4;Dwarven Mountains;Dwarven Mountains;Dwarven Mountains;;Dwarven Mountains;;;;;;;;;x
+b_dwarven_mountains_4_adj;Dwarven Mountainsian;;Dwarven Mountainser;;;;;;;;;;;x
 b_dyanthorn;Dyanthorn;Dyanthorn;Dyanthorn;;Dyanthorn;;;;;;;;;x
 b_dyanthorn_adj;Dyanthornian;;dyanthorner;;;;;;;;;;;x
 b_dyanthorn_2;Dyanthorn;Dyanthorn;Dyanthorn;;Dyanthorn;;;;;;;;;x
 b_dyanthorn_2_adj;Dyanthornian;;dyanthorner;;;;;;;;;;;x
 b_dyanthorn_3;Dyanthorn;Dyanthorn;Dyanthorn;;Dyanthorn;;;;;;;;;x
 b_dyanthorn_3_adj;Dyanthornian;;dyanthorner;;;;;;;;;;;x
+b_eastern_seacyde;Eastern Seacyde;Eastern Seacyde;Eastern Seacyde;;Eastern Seacyde;;;;;;;;;x
+b_eastern_seacyde_adj;Eastern Seacydean;;Eastern Seacyder;;;;;;;;;;;x
+b_eastern_seacyde_2;Eastern Seacyde;Eastern Seacyde;Eastern Seacyde;;Eastern Seacyde;;;;;;;;;x
+b_eastern_seacyde_2_adj;Eastern Seacydean;;Eastern Seacyder;;;;;;;;;;;x
+b_eastern_seacyde_3;Eastern Seacyde;Eastern Seacyde;Eastern Seacyde;;Eastern Seacyde;;;;;;;;;x
+b_eastern_seacyde_3_adj;Eastern Seacydean;;Eastern Seacyder;;;;;;;;;;;x
+b_eastern_seacyde_4;Eastern Seacyde;Eastern Seacyde;Eastern Seacyde;;Eastern Seacyde;;;;;;;;;x
+b_eastern_seacyde_4_adj;Eastern Seacydean;;Eastern Seacyder;;;;;;;;;;;x
 b_fanfon;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
 b_fanfon_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
 b_fanfon_2;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
@@ -55,6 +91,14 @@ b_frontiir_2;Frontiir;Frontiir;Frontiir;;Frontiir;;;;;;;;;x
 b_frontiir_2_adj;Frontiirian;;frontiirer;;;;;;;;;;;x
 b_frontiir_3;Frontiir;Frontiir;Frontiir;;Frontiir;;;;;;;;;x
 b_frontiir_3_adj;Frontiirian;;frontiirer;;;;;;;;;;;x
+b_garhold;Garhold;Garhold;Garhold;;Garhold;;;;;;;;;x
+b_garhold_adj;Garholdian;;garholder;;;;;;;;;;;x
+b_garhold_2;Garhold;Garhold;Garhold;;Garhold;;;;;;;;;x
+b_garhold_2_adj;Garholdian;;garholder;;;;;;;;;;;x
+b_garhold_3;Garhold;Garhold;Garhold;;Garhold;;;;;;;;;x
+b_garhold_3_adj;Garholdian;;garholder;;;;;;;;;;;x
+b_garhold_4;Garhold;Garhold;Garhold;;Garhold;;;;;;;;;x
+b_garhold_4_adj;Garholdian;;garholder;;;;;;;;;;;x
 b_geeldron;Geeldron;Geeldron;Geeldron;;Geeldron;;;;;;;;;x
 b_geeldron_adj;Geeldronian;;geeldroner;;;;;;;;;;;x
 b_geeldron_2;Geeldron;Geeldron;Geeldron;;Geeldron;;;;;;;;;x
@@ -131,6 +175,28 @@ b_low_lacrima_3;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
 b_low_lacrima_3_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
 b_low_lacrima_4;Low Lacrima;Low Lacrima;Low Lacrima;;Low Lacrima;;;;;;;;;x
 b_low_lacrima_4_adj;Low Lacriman;;Low Lacrimer;;;;;;;;;;;x
+b_marsh_plains;Marsh Plains;Marsh Plains;Marsh Plains;;Marsh Plains;;;;;;;;;x
+b_marsh_plains_adj;Marsh Plainsian;;Marsh Plainser;;;;;;;;;;;x
+b_marsh_plains_2;Marsh Plains;Marsh Plains;Marsh Plains;;Marsh Plains;;;;;;;;;x
+b_marsh_plains_2_adj;Marsh Plainsian;;Marsh Plainser;;;;;;;;;;;x
+b_marsh_plains_3;Marsh Plains;Marsh Plains;Marsh Plains;;Marsh Plains;;;;;;;;;x
+b_marsh_plains_3_adj;Marsh Plainsian;;Marsh Plainser;;;;;;;;;;;x
+b_marsh_plains_4;Marsh Plains;Marsh Plains;Marsh Plains;;Marsh Plains;;;;;;;;;x
+b_marsh_plains_4_adj;Marsh Plainsian;;Marsh Plainser;;;;;;;;;;;x
+b_mild_cinzal;Mild Cinzal;Mild Cinzal;Mild Cinzal;;Mild Cinzal;;;;;;;;;x
+b_mild_cinzal_adj;Mild Cinzalian;;Mild Cinzaler;;;;;;;;;;;x
+b_mild_cinzal_2;Mild Cinzal;Mild Cinzal;Mild Cinzal;;Mild Cinzal;;;;;;;;;x
+b_mild_cinzal_2_adj;Mild Cinzalian;;Mild Cinzaler;;;;;;;;;;;x
+b_mild_cinzal_3;Mild Cinzal;Mild Cinzal;Mild Cinzal;;Mild Cinzal;;;;;;;;;x
+b_mild_cinzal_3_adj;Mild Cinzalian;;Mild Cinzaler;;;;;;;;;;;x
+b_mild_cinzal_4;Mild Cinzal;Mild Cinzal;Mild Cinzal;;Mild Cinzal;;;;;;;;;x
+b_mild_cinzal_4_adj;Mild Cinzalian;;Mild Cinzaler;;;;;;;;;;;x
+b_minehills;Minehills;Minehills;Minehills;;Minehills;;;;;;;;;x
+b_minehills_adj;Minehillsian;;minehillser;;;;;;;;;;;x
+b_minehills_2;Minehills;Minehills;Minehills;;Minehills;;;;;;;;;x
+b_minehills_2_adj;Minehillsian;;minehillser;;;;;;;;;;;x
+b_minehills_3;Minehills;Minehills;Minehills;;Minehills;;;;;;;;;x
+b_minehills_3_adj;Minehillsian;;minehillser;;;;;;;;;;;x
 b_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
 b_minerlia_adj;Minerlian;;minerler;;;;;;;;;;;x
 b_minerlia_2;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
@@ -157,6 +223,20 @@ b_nanukinn_2;Nanukinn;Nanukinn;Nanukinn;;Nanukinn;;;;;;;;;x
 b_nanukinn_2_adj;Nanukinnian;;nanukinner;;;;;;;;;;;x
 b_nanukinn_3;Nanukinn;Nanukinn;Nanukinn;;Nanukinn;;;;;;;;;x
 b_nanukinn_3_adj;Nanukinnian;;nanukinner;;;;;;;;;;;x
+b_river_plains;River Plains;River Plains;River Plains;;River Plains;;;;;;;;;x
+b_river_plains_adj;River Plainsian;;River Plainser;;;;;;;;;;;x
+b_river_plains_2;River Plains;River Plains;River Plains;;River Plains;;;;;;;;;x
+b_river_plains_2_adj;River Plainsian;;River Plainser;;;;;;;;;;;x
+b_river_plains_3;River Plains;River Plains;River Plains;;River Plains;;;;;;;;;x
+b_river_plains_3_adj;River Plainsian;;River Plainser;;;;;;;;;;;x
+b_steel_pass;Steel Pass;Steel Pass;Steel Pass;;Steel Pass;;;;;;;;;x
+b_steel_pass_adj;Steel Passian;;Steel Passer;;;;;;;;;;;x
+b_steel_pass_2;Steel Pass;Steel Pass;Steel Pass;;Steel Pass;;;;;;;;;x
+b_steel_pass_2_adj;Steel Passian;;Steel Passer;;;;;;;;;;;x
+b_steel_pass_3;Steel Pass;Steel Pass;Steel Pass;;Steel Pass;;;;;;;;;x
+b_steel_pass_3_adj;Steel Passian;;Steel Passer;;;;;;;;;;;x
+b_steel_pass_4;Steel Pass;Steel Pass;Steel Pass;;Steel Pass;;;;;;;;;x
+b_steel_pass_4_adj;Steel Passian;;Steel Passer;;;;;;;;;;;x
 b_tripalix;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
 b_tripalix_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
 b_tripalix_2;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
@@ -165,3 +245,29 @@ b_tripalix_3;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
 b_tripalix_3_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
 b_tripalix_4;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
 b_tripalix_4_adj;Tripalixian;;tripalixer;;;;;;;;;;;x
+b_ultown;Ultown;Ultown;Ultown;;Ultown;;;;;;;;;x
+b_ultown_adj;Ultownian;;ultowner;;;;;;;;;;;x
+b_ultown_2;Ultown;Ultown;Ultown;;Ultown;;;;;;;;;x
+b_ultown_2_adj;Ultownian;;ultowner;;;;;;;;;;;x
+b_ultown_3;Ultown;Ultown;Ultown;;Ultown;;;;;;;;;x
+b_ultown_3_adj;Ultownian;;ultowner;;;;;;;;;;;x
+b_ultown_4;Ultown;Ultown;Ultown;;Ultown;;;;;;;;;x
+b_ultown_4_adj;Ultownian;;ultowner;;;;;;;;;;;x
+b_underpass;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+b_underpass_adj;Underpassian;;underpasser;;;;;;;;;;;x
+b_underpass_2;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+b_underpass_2_adj;Underpassian;;underpasser;;;;;;;;;;;x
+b_underpass_3;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+b_underpass_3_adj;Underpassian;;underpasser;;;;;;;;;;;x
+b_underpass_4;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+b_underpass_4_adj;Underpassian;;underpasser;;;;;;;;;;;x
+b_underpass_5;Underpass;Underpass;Underpass;;Underpass;;;;;;;;;x
+b_underpass_5_adj;Underpassian;;underpasser;;;;;;;;;;;x
+b_western_seacyde;Western Seacyde;Western Seacyde;Western Seacyde;;Western Seacyde;;;;;;;;;x
+b_western_seacyde_adj;Western Seacydean;;Western Seacyder;;;;;;;;;;;x
+b_western_seacyde_2;Western Seacyde;Western Seacyde;Western Seacyde;;Western Seacyde;;;;;;;;;x
+b_western_seacyde_2_adj;Western Seacydean;;Western Seacyder;;;;;;;;;;;x
+b_western_seacyde_3;Western Seacyde;Western Seacyde;Western Seacyde;;Western Seacyde;;;;;;;;;x
+b_western_seacyde_3_adj;Western Seacydean;;Western Seacyder;;;;;;;;;;;x
+b_western_seacyde_4;Western Seacyde;Western Seacyde;Western Seacyde;;Western Seacyde;;;;;;;;;x
+b_western_seacyde_4_adj;Western Seacydean;;Western Seacyder;;;;;;;;;;;x

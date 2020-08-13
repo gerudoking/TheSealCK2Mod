@@ -4,7 +4,7 @@
 	law = succ_gavelkind
 }
 800.1.1={
-	liege=k_mistlands
+	liege=e_nanoon
 }
 
 1030.1.1={holder=51}

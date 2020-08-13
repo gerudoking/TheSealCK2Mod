@@ -1,0 +1,18 @@
+# c_dekkerton
+
+# County Title
+title = c_dekkerton
+
+# Settlements
+max_settlements = 4
+
+b_dekkerton = castle
+b_dekkerton_2 = city
+#b_dekkerton_3 = temple
+#b_dekkerton_4 = castle
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History
