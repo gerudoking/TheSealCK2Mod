@@ -1,14 +1,30 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_abeldoun;Abeldoun;Abeldoun;Abeldoun;;Abeldoun;;;;;;;;;x
+c_abeldoun_adj;Abeldounian;;abeldouner;;;;;;;;;;;x
+c_ahdorin;Ahdorin;Ahdorin;Ahdorin;;Ahdorin;;;;;;;;;x
+c_ahdorin_adj;Ahdorinian;;ahdoriner;;;;;;;;;;;x
+c_alderdale;Alderdale;Alderdale;Alderdale;;Alderdale;;;;;;;;;x
+c_alderdale_adj;Alderdalean;;alderdaler;;;;;;;;;;;x
+c_beldale;Beldale;Beldale;Beldale;;Beldale;;;;;;;;;x
+c_beldale_adj;Beldalean;;beldaler;;;;;;;;;;;x
 c_castlestrong;Castlestrong;Castlestrong;Castlestrong;;Castlestrong;;;;;;;;;x
 c_castlestrong_adj;Castlestrongian;;castlestronger;;;;;;;;;;;x
+c_dyanthorn;Dyanthorn;Dyanthorn;Dyanthorn;;Dyanthorn;;;;;;;;;x
+c_dyanthorn_adj;Dyanthornian;;dyanthorner;;;;;;;;;;;x
 c_fanfon;Fanfon;Fanfon;Fanfon;;Fanfon;;;;;;;;;x
 c_fanfon_adj;Fanfonian;;fanfoner;;;;;;;;;;;x
 c_frakkert;Frakkert;Frakkert;Frakkert;;Frakkert;;;;;;;;;x
 c_frakkert_adj;Frakkertian;;frakkerter;;;;;;;;;;;x
+c_frontiir;Frontiir;Frontiir;Frontiir;;Frontiir;;;;;;;;;x
+c_frontiir_adj;Frontiirian;;frontiirer;;;;;;;;;;;x
+c_geeldron;Geeldron;Geeldron;Geeldron;;Geeldron;;;;;;;;;x
+c_geeldron_adj;Geeldronian;;geeldroner;;;;;;;;;;;x
 c_graymark;Graymark;Graymark;Graymark;;Graymark;;;;;;;;;x
 c_graymark_adj;Graymarkian;;graymarker;;;;;;;;;;;x
 c_greenwoods;Greenwoods;Greenwoods;Greenwoods;;Greenwoods;;;;;;;;;x
 c_greenwoods_adj;Greenwoodsian;;greenwoodser;;;;;;;;;;;x
+c_herdonnig;Herdonnig;Herdonnig;Herdonnig;;Herdonnig;;;;;;;;;x
+c_herdonnig_adj;Herdonnigian;;herdonniger;;;;;;;;;;;x
 c_high_kreldet;High Kreldet;High Kreldet;High Kreldet;;High Kreldet;;;;;;;;;x
 c_high_kreldet_adj;High Kreldetian;;High Kreldeter;;;;;;;;;;;x
 c_ironguardd;Ironguardd;Ironguardd;Ironguardd;;Ironguardd;;;;;;;;;x
@@ -27,5 +43,7 @@ c_minerlia;Minerlia;Minerlia;Minerlia;;Minerlia;;;;;;;;;x
 c_minerlia_adj;Minerlian;;minerler;;;;;;;;;;;x
 c_nafengor;Nafengor;Nafengor;Nafengor;;Nafengor;;;;;;;;;x
 c_nafengor_adj;Nafengorian;;nafengorer;;;;;;;;;;;x
+c_nanukinn;Nanukinn;Nanukinn;Nanukinn;;Nanukinn;;;;;;;;;x
+c_nanukinn_adj;Nanukinnian;;nanukinner;;;;;;;;;;;x
 c_tripalix;Tripalix;Tripalix;Tripalix;;Tripalix;;;;;;;;;x
 c_tripalix_adj;Tripalixian;;tripalixer;;;;;;;;;;;x

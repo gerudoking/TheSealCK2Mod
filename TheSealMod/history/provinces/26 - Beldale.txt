@@ -1,0 +1,16 @@
+# c_beldale
+
+# County Title
+title = c_beldale
+
+# Settlements
+max_settlements = 2
+
+b_beldale = castle
+b_beldale_2 = city
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

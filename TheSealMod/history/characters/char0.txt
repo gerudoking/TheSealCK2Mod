@@ -374,7 +374,6 @@
 	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=4
 	add_trait=charismatic_negotiator add_trait=hunter add_trait=shy add_trait=kind add_trait=gluttonous 
-	add_trait=cruel 
 	father=28	#John
 	1055.9.5={ birth=yes }
 	1106.10.26={ death=yes }
@@ -470,7 +469,7 @@
 	culture=nanoonman religion=giantcult
 	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=6
 	add_trait=midas_touched add_trait=hunter add_trait=diligent add_trait=temperate add_trait=just 
-	add_trait=cruel add_trait=ambitious add_trait=kind 
+	add_trait=cruel add_trait=ambitious
 	father=41	#Olfred
 	1123.7.6={ birth=yes }
 	1192.3.12={ death=yes }
@@ -530,17 +529,16 @@
 	trait = "adventurer"
 	trait = "proud"
 	trait = "wroth"
+	historical = yes
 	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
-	
-	historical = yes
 }
 50={
 	name=Farind
 	dynasty=6
 	culture=nanoonman religion=giantcult
 	martial=12 diplomacy=8 stewardship=11 intrigue=7 learning=3
-	1030.7.16={ birth=yes }
+	1010.7.16={ birth=yes }
 	1085.2.19={ death=yes }
 }
 51={

@@ -1,0 +1,18 @@
+# c_ahdorin
+
+# County Title
+title = c_ahdorin
+
+# Settlements
+max_settlements = 4
+
+b_ahdorin = castle
+b_ahdorin_2 = city
+#b_ahdorin_3 = temple
+#b_ahdorin_4 = castle
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

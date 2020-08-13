@@ -1,0 +1,17 @@
+# c_herdonnig
+
+# County Title
+title = c_herdonnig
+
+# Settlements
+max_settlements = 3
+
+b_herdonnig = castle
+#b_herdonnig_2 = city
+#b_herdonnig_3 = temple
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

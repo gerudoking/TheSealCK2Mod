@@ -1,0 +1,6 @@
+k_coptic = {
+   color={255 255 167}
+   capital = c_minerlia
+   religion = casimirist
+   controls_religion = casimirist
+}

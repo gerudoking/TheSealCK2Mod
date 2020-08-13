@@ -180,6 +180,154 @@ e_circannia = {
 			}
 		}
 	}
+	k_cinzais = {
+		color={ 190 10 155 }
+		color2={ 255 255 255 }
+		
+		capital = 19 # c_abeldoun
+		culture = nanoonman
+		
+		c_abeldoun = { # 19
+			color={ 160 40 140 }
+			color2={ 255 255 255 }
+			
+			b_abeldoun = {
+			}
+			b_abeldoun_2 = {
+			}
+			b_abeldoun_3 = {
+			}
+		}
+		c_ahdorin = { # 23
+			color={ 105 80 130 }
+			color2={ 255 255 255 }
+			
+			b_ahdorin = {
+			}
+			b_ahdorin_2 = {
+			}
+			b_ahdorin_3 = {
+			}
+			b_ahdorin_4 = {
+			}
+		}
+		c_dyanthorn = { # 21
+			color={ 160 35 150 }
+			color2={ 255 255 255 }
+			
+			b_dyanthorn = {
+			}
+			b_dyanthorn_2 = {
+			}
+			b_dyanthorn_3 = {
+			}
+		}
+		c_frontiir = { # 28
+			color={ 80 80 121 }
+			color2={ 255 255 255 }
+			
+			b_frontiir = {
+			}
+			b_frontiir_2 = {
+			}
+			b_frontiir_3 = {
+			}
+		}
+		c_geeldron = { # 22
+			color={ 100 60 130 }
+			color2={ 255 255 255 }
+			
+			b_geeldron = {
+			}
+			b_geeldron_2 = {
+			}
+			b_geeldron_3 = {
+			}
+		}
+		d_southern_cinzais = {
+			color={ 170 30 145 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 19 province_id = 21 } }
+				}
+			}
+			capital = 19 # c_abeldoun
+			
+			c_abeldoun = { # 19
+				color={ 160 40 140 }
+				color2={ 255 255 255 }
+				
+				b_abeldoun = {
+				}
+				b_abeldoun_2 = {
+				}
+				b_abeldoun_3 = {
+				}
+			}
+			c_dyanthorn = { # 21
+				color={ 160 35 150 }
+				color2={ 255 255 255 }
+				
+				b_dyanthorn = {
+				}
+				b_dyanthorn_2 = {
+				}
+				b_dyanthorn_3 = {
+				}
+			}
+		}
+		d_western_cinzais = {
+			color={ 110 50 135 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 22 province_id = 23 province_id = 28 } }
+				}
+			}
+			capital = 22 # c_geeldron
+			
+			c_geeldron = { # 22
+				color={ 100 60 130 }
+				color2={ 255 255 255 }
+				
+				b_geeldron = {
+				}
+				b_geeldron_2 = {
+				}
+				b_geeldron_3 = {
+				}
+			}
+			c_ahdorin = { # 23
+				color={ 105 80 130 }
+				color2={ 255 255 255 }
+				
+				b_ahdorin = {
+				}
+				b_ahdorin_2 = {
+				}
+				b_ahdorin_3 = {
+				}
+				b_ahdorin_4 = {
+				}
+			}
+			c_frontiir = { # 28
+				color={ 80 80 121 }
+				color2={ 255 255 255 }
+				
+				b_frontiir = {
+				}
+				b_frontiir_2 = {
+				}
+				b_frontiir_3 = {
+				}
+			}
+		}
+	}
 }
 e_nanoon = {
 	color={ 245 216 86 }
@@ -187,7 +335,6 @@ e_nanoon = {
 	
 	capital = 14 # c_nafengor
 	culture = nanoonman
-	religion=casimirist
 	
 	k_mistlands = {
 		color={ 235 226 81 }
@@ -196,6 +343,46 @@ e_nanoon = {
 		capital = 14 # c_nafengor
 		culture = nanoonman
 		
+		c_alderdale = { # 25
+			color={ 195 20 65 }
+			color2={ 255 255 255 }
+			
+			b_alderdale = {
+			}
+			b_alderdale_2 = {
+			}
+		}
+		c_beldale = { # 26
+			color={ 189 15 62 }
+			color2={ 255 255 255 }
+			
+			b_beldale = {
+			}
+			b_beldale_2 = {
+			}
+		}
+		c_herdonnig = { # 27
+			color={ 130 30 47 }
+			color2={ 255 255 255 }
+			
+			b_herdonnig = {
+			}
+			b_herdonnig_2 = {
+			}
+			b_herdonnig_3 = {
+			}
+		}
+		c_nanukinn = { # 24
+			color={ 200 10 80 }
+			color2={ 255 255 255 }
+			
+			b_nanukinn = {
+			}
+			b_nanukinn_2 = {
+			}
+			b_nanukinn_3 = {
+			}
+		}
 		d_nafengor = {
 			color={ 215 246 71 }
 			color2={ 255 255 255 }
@@ -259,6 +446,72 @@ e_nanoon = {
 				}
 			}
 		}
+		d_neelend = {
+			color={ 210 0 85 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 24 province_id = 25 province_id = 26 } }
+				}
+			}
+			capital = 24 # c_nanukinn
+			
+			c_nanukinn = { # 24
+				color={ 200 10 80 }
+				color2={ 255 255 255 }
+				
+				b_nanukinn = {
+				}
+				b_nanukinn_2 = {
+				}
+				b_nanukinn_3 = {
+				}
+			}
+			c_alderdale = { # 25
+				color={ 195 20 65 }
+				color2={ 255 255 255 }
+				
+				b_alderdale = {
+				}
+				b_alderdale_2 = {
+				}
+			}
+			c_beldale = { # 26
+				color={ 189 15 62 }
+				color2={ 255 255 255 }
+				
+				b_beldale = {
+				}
+				b_beldale_2 = {
+				}
+			}
+		}
+		d_new_mistlands = {
+			color={ 140 20 52 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 27 } }
+				}
+			}
+			capital = 27 # c_herdonnig
+			
+			c_herdonnig = { # 27
+				color={ 130 30 47 }
+				color2={ 255 255 255 }
+				
+				b_herdonnig = {
+				}
+				b_herdonnig_2 = {
+				}
+				b_herdonnig_3 = {
+				}
+			}
+		}
 	}
 	k_highlands = {
 		color={ 190 0 55 }
@@ -296,28 +549,4 @@ e_nanoon = {
 			}
 		}
 	}
-}
-
-# Religious Titles
-
-e_nanoonwalda_casimir = {
-	color={ 123 0 0 }
-	color2={ 123 35 0 }
-	
-	capital = 18 # Minerlia
-	culture = nanoonman
-	
-	title = "NANOONWALDA"
-	foa = "CASIMIR_FOA"
-	short_name = yes
-	
-	# Controls a religion
-	controls_religion = casimirist
-	
-	religion = casimirist
-
-	assimilate = no
-	
-	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
-	
 }

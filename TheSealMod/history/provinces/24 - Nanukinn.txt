@@ -1,0 +1,17 @@
+# c_nanukinn
+
+# County Title
+title = c_nanukinn
+
+# Settlements
+max_settlements = 3
+
+b_nanukinn = castle
+#b_nanukinn_2 = city
+#b_nanukinn_3 = temple
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

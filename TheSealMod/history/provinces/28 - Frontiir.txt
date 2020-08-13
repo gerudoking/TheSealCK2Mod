@@ -1,0 +1,17 @@
+# c_frontiir
+
+# County Title
+title = c_frontiir
+
+# Settlements
+max_settlements = 3
+
+b_frontiir = castle
+#b_frontiir_2 = city
+#b_frontiir_3 = temple
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History

@@ -1,0 +1,16 @@
+# c_alderdale
+
+# County Title
+title = c_alderdale
+
+# Settlements
+max_settlements = 2
+
+b_alderdale = castle
+#b_alderdale_2 = city
+
+# Misc
+culture = nanoonman
+religion = casimirist
+
+#History

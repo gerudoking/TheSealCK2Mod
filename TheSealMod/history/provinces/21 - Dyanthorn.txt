@@ -1,0 +1,17 @@
+# c_dyanthorn
+
+# County Title
+title = c_dyanthorn
+
+# Settlements
+max_settlements = 3
+
+b_dyanthorn = castle
+#b_dyanthorn_2 = city
+#b_dyanthorn_3 = temple
+
+# Misc
+culture = nanoonman
+religion = giantcult
+
+#History
